@@ -1,0 +1,2925 @@
+Date,Category,Sales
+2023-01-01,Electronics,962.0
+2023-01-01,Groceries,1879.0
+2023-01-01,Fashion,832.0
+2023-01-01,Home & Kitchen,514.0
+2023-01-02,Electronics,806.0
+2023-01-02,Groceries,1471.0
+2023-01-02,Fashion,788.0
+2023-01-02,Home & Kitchen,420.0
+2023-01-03,Electronics,802.0
+2023-01-03,Groceries,1521.0
+2023-01-03,Fashion,674.0
+2023-01-03,Home & Kitchen,487.0
+2023-01-04,Electronics,816.0
+2023-01-04,Groceries,1499.0
+2023-01-04,Fashion,703.0
+2023-01-04,Home & Kitchen,551.0
+2023-01-05,Electronics,830.0
+2023-01-05,Groceries,1549.0
+2023-01-05,Fashion,652.0
+2023-01-05,Home & Kitchen,401.0
+2023-01-06,Electronics,787.0
+2023-01-06,Groceries,1557.0
+2023-01-06,Fashion,637.0
+2023-01-06,Home & Kitchen,529.0
+2023-01-07,Electronics,1051.0
+2023-01-07,Groceries,1887.0
+2023-01-07,Fashion,760.0
+2023-01-07,Home & Kitchen,660.0
+2023-01-08,Electronics,917.0
+2023-01-08,Groceries,1721.0
+2023-01-08,Fashion,828.0
+2023-01-08,Home & Kitchen,548.0
+2023-01-09,Electronics,758.0
+2023-01-09,Groceries,1569.0
+2023-01-09,Fashion,787.0
+2023-01-09,Home & Kitchen,414.0
+2023-01-10,Electronics,889.0
+2023-01-10,Groceries,1589.0
+2023-01-10,Fashion,774.0
+2023-01-10,Home & Kitchen,589.0
+2023-01-11,Electronics,750.0
+2023-01-11,Groceries,1507.0
+2023-01-11,Fashion,654.0
+2023-01-11,Home & Kitchen,463.0
+2023-01-12,Electronics,830.0
+2023-01-12,Groceries,1450.0
+2023-01-12,Fashion,734.0
+2023-01-12,Home & Kitchen,420.0
+2023-01-13,Electronics,772.0
+2023-01-13,Groceries,1566.0
+2023-01-13,Fashion,617.0
+2023-01-13,Home & Kitchen,531.0
+2023-01-14,Electronics,948.0
+2023-01-14,Groceries,1759.0
+2023-01-14,Fashion,753.0
+2023-01-14,Home & Kitchen,508.0
+2023-01-15,Electronics,949.0
+2023-01-15,Groceries,1752.0
+2023-01-15,Fashion,869.0
+2023-01-15,Home & Kitchen,583.0
+2023-01-16,Electronics,791.0
+2023-01-16,Groceries,1510.0
+2023-01-16,Fashion,787.0
+2023-01-16,Home & Kitchen,598.0
+2023-01-17,Electronics,871.0
+2023-01-17,Groceries,1407.0
+2023-01-17,Fashion,774.0
+2023-01-17,Home & Kitchen,434.0
+2023-01-18,Electronics,780.0
+2023-01-18,Groceries,1563.0
+2023-01-18,Fashion,649.0
+2023-01-18,Home & Kitchen,503.0
+2023-01-19,Electronics,831.0
+2023-01-19,Groceries,1401.0
+2023-01-19,Fashion,733.0
+2023-01-19,Home & Kitchen,453.0
+2023-01-20,Electronics,805.0
+2023-01-20,Groceries,1403.0
+2023-01-20,Fashion,653.0
+2023-01-20,Home & Kitchen,590.0
+2023-01-21,Electronics,1005.0
+2023-01-21,Groceries,1743.0
+2023-01-21,Fashion,901.0
+2023-01-21,Home & Kitchen,689.0
+2023-01-22,Electronics,873.0
+2023-01-22,Groceries,1794.0
+2023-01-22,Fashion,787.0
+2023-01-22,Home & Kitchen,514.0
+2023-01-23,Electronics,899.0
+2023-01-23,Groceries,1589.0
+2023-01-23,Fashion,639.0
+2023-01-23,Home & Kitchen,481.0
+2023-01-24,Electronics,810.0
+2023-01-24,Groceries,1452.0
+2023-01-24,Fashion,623.0
+2023-01-24,Home & Kitchen,553.0
+2023-01-25,Electronics,887.0
+2023-01-25,Groceries,1523.0
+2023-01-25,Fashion,640.0
+2023-01-25,Home & Kitchen,556.0
+2023-01-26,Electronics,714.0
+2023-01-26,Groceries,1444.0
+2023-01-26,Fashion,664.0
+2023-01-26,Home & Kitchen,488.0
+2023-01-27,Electronics,770.0
+2023-01-27,Groceries,1408.0
+2023-01-27,Fashion,687.0
+2023-01-27,Home & Kitchen,528.0
+2023-01-28,Electronics,995.0
+2023-01-28,Groceries,1762.0
+2023-01-28,Fashion,878.0
+2023-01-28,Home & Kitchen,580.0
+2023-01-29,Electronics,995.0
+2023-01-29,Groceries,1862.0
+2023-01-29,Fashion,902.0
+2023-01-29,Home & Kitchen,532.0
+2023-01-30,Electronics,822.0
+2023-01-30,Groceries,1404.0
+2023-01-30,Fashion,640.0
+2023-01-30,Home & Kitchen,427.0
+2023-01-31,Electronics,834.0
+2023-01-31,Groceries,1471.0
+2023-01-31,Fashion,611.0
+2023-01-31,Home & Kitchen,561.0
+2023-02-01,Electronics,732.0
+2023-02-01,Groceries,1447.0
+2023-02-01,Fashion,750.0
+2023-02-01,Home & Kitchen,461.0
+2023-02-02,Electronics,736.0
+2023-02-02,Groceries,1498.0
+2023-02-02,Fashion,771.0
+2023-02-02,Home & Kitchen,503.0
+2023-02-03,Electronics,734.0
+2023-02-03,Groceries,1592.0
+2023-02-03,Fashion,700.0
+2023-02-03,Home & Kitchen,574.0
+2023-02-04,Electronics,990.0
+2023-02-04,Groceries,1700.0
+2023-02-04,Fashion,744.0
+2023-02-04,Home & Kitchen,641.0
+2023-02-05,Electronics,962.0
+2023-02-05,Groceries,1726.0
+2023-02-05,Fashion,876.0
+2023-02-05,Home & Kitchen,514.0
+2023-02-06,Electronics,789.0
+2023-02-06,Groceries,1441.0
+2023-02-06,Fashion,723.0
+2023-02-06,Home & Kitchen,578.0
+2023-02-07,Electronics,762.0
+2023-02-07,Groceries,1495.0
+2023-02-07,Fashion,651.0
+2023-02-07,Home & Kitchen,495.0
+2023-02-08,Electronics,831.0
+2023-02-08,Groceries,1550.0
+2023-02-08,Fashion,742.0
+2023-02-08,Home & Kitchen,570.0
+2023-02-09,Electronics,728.0
+2023-02-09,Groceries,1435.0
+2023-02-09,Fashion,612.0
+2023-02-09,Home & Kitchen,559.0
+2023-02-10,Electronics,770.0
+2023-02-10,Groceries,1586.0
+2023-02-10,Fashion,685.0
+2023-02-10,Home & Kitchen,427.0
+2023-02-11,Electronics,925.0
+2023-02-11,Groceries,1869.0
+2023-02-11,Fashion,784.0
+2023-02-11,Home & Kitchen,561.0
+2023-02-12,Electronics,1044.0
+2023-02-12,Groceries,1833.0
+2023-02-12,Fashion,767.0
+2023-02-12,Home & Kitchen,527.0
+2023-02-13,Electronics,807.0
+2023-02-13,Groceries,1443.0
+2023-02-13,Fashion,683.0
+2023-02-13,Home & Kitchen,429.0
+2023-02-14,Electronics,889.0
+2023-02-14,Groceries,1474.0
+2023-02-14,Fashion,727.0
+2023-02-14,Home & Kitchen,491.0
+2023-02-15,Electronics,889.0
+2023-02-15,Groceries,1528.0
+2023-02-15,Fashion,720.0
+2023-02-15,Home & Kitchen,426.0
+2023-02-16,Electronics,889.0
+2023-02-16,Groceries,1520.0
+2023-02-16,Fashion,715.0
+2023-02-16,Home & Kitchen,402.0
+2023-02-17,Electronics,802.0
+2023-02-17,Groceries,1597.0
+2023-02-17,Fashion,799.0
+2023-02-17,Home & Kitchen,554.0
+2023-02-18,Electronics,996.0
+2023-02-18,Groceries,1761.0
+2023-02-18,Fashion,904.0
+2023-02-18,Home & Kitchen,550.0
+2023-02-19,Electronics,1031.0
+2023-02-19,Groceries,1851.0
+2023-02-19,Fashion,798.0
+2023-02-19,Home & Kitchen,617.0
+2023-02-20,Electronics,859.0
+2023-02-20,Groceries,1495.0
+2023-02-20,Fashion,779.0
+2023-02-20,Home & Kitchen,512.0
+2023-02-21,Electronics,761.0
+2023-02-21,Groceries,1585.0
+2023-02-21,Fashion,651.0
+2023-02-21,Home & Kitchen,411.0
+2023-02-22,Electronics,738.0
+2023-02-22,Groceries,1529.0
+2023-02-22,Fashion,730.0
+2023-02-22,Home & Kitchen,512.0
+2023-02-23,Electronics,800.0
+2023-02-23,Groceries,1512.0
+2023-02-23,Fashion,783.0
+2023-02-23,Home & Kitchen,480.0
+2023-02-24,Electronics,886.0
+2023-02-24,Groceries,1512.0
+2023-02-24,Fashion,601.0
+2023-02-24,Home & Kitchen,529.0
+2023-02-25,Electronics,913.0
+2023-02-25,Groceries,1786.0
+2023-02-25,Fashion,868.0
+2023-02-25,Home & Kitchen,646.0
+2023-02-26,Electronics,985.0
+2023-02-26,Groceries,1829.0
+2023-02-26,Fashion,792.0
+2023-02-26,Home & Kitchen,671.0
+2023-02-27,Electronics,859.0
+2023-02-27,Groceries,1597.0
+2023-02-27,Fashion,759.0
+2023-02-27,Home & Kitchen,467.0
+2023-02-28,Electronics,882.0
+2023-02-28,Groceries,1583.0
+2023-02-28,Fashion,722.0
+2023-02-28,Home & Kitchen,544.0
+2023-03-01,Electronics,737.0
+2023-03-01,Groceries,1423.0
+2023-03-01,Fashion,668.0
+2023-03-01,Home & Kitchen,515.0
+2023-03-02,Electronics,797.0
+2023-03-02,Groceries,1597.0
+2023-03-02,Fashion,738.0
+2023-03-02,Home & Kitchen,543.0
+2023-03-03,Electronics,796.0
+2023-03-03,Groceries,1523.0
+2023-03-03,Fashion,786.0
+2023-03-03,Home & Kitchen,469.0
+2023-03-04,Electronics,952.0
+2023-03-04,Groceries,1702.0
+2023-03-04,Fashion,887.0
+2023-03-04,Home & Kitchen,686.0
+2023-03-05,Electronics,1023.0
+2023-03-05,Groceries,1846.0
+2023-03-05,Fashion,829.0
+2023-03-05,Home & Kitchen,694.0
+2023-03-06,Electronics,846.0
+2023-03-06,Groceries,1547.0
+2023-03-06,Fashion,695.0
+2023-03-06,Home & Kitchen,598.0
+2023-03-07,Electronics,751.0
+2023-03-07,Groceries,1560.0
+2023-03-07,Fashion,767.0
+2023-03-07,Home & Kitchen,527.0
+2023-03-08,Electronics,738.0
+2023-03-08,Groceries,1481.0
+2023-03-08,Fashion,703.0
+2023-03-08,Home & Kitchen,528.0
+2023-03-09,Electronics,710.0
+2023-03-09,Groceries,1584.0
+2023-03-09,Fashion,777.0
+2023-03-09,Home & Kitchen,550.0
+2023-03-10,Electronics,858.0
+2023-03-10,Groceries,1441.0
+2023-03-10,Fashion,698.0
+2023-03-10,Home & Kitchen,406.0
+2023-03-11,Electronics,1003.0
+2023-03-11,Groceries,1789.0
+2023-03-11,Fashion,851.0
+2023-03-11,Home & Kitchen,559.0
+2023-03-12,Electronics,972.0
+2023-03-12,Groceries,1701.0
+2023-03-12,Fashion,868.0
+2023-03-12,Home & Kitchen,547.0
+2023-03-13,Electronics,839.0
+2023-03-13,Groceries,1596.0
+2023-03-13,Fashion,636.0
+2023-03-13,Home & Kitchen,559.0
+2023-03-14,Electronics,708.0
+2023-03-14,Groceries,1498.0
+2023-03-14,Fashion,746.0
+2023-03-14,Home & Kitchen,447.0
+2023-03-15,Electronics,830.0
+2023-03-15,Groceries,1547.0
+2023-03-15,Fashion,751.0
+2023-03-15,Home & Kitchen,453.0
+2023-03-16,Electronics,819.0
+2023-03-16,Groceries,1560.0
+2023-03-16,Fashion,751.0
+2023-03-16,Home & Kitchen,515.0
+2023-03-17,Electronics,774.0
+2023-03-17,Groceries,1512.0
+2023-03-17,Fashion,799.0
+2023-03-17,Home & Kitchen,563.0
+2023-03-18,Electronics,1025.0
+2023-03-18,Groceries,1803.0
+2023-03-18,Fashion,823.0
+2023-03-18,Home & Kitchen,611.0
+2023-03-19,Electronics,958.0
+2023-03-19,Groceries,1852.0
+2023-03-19,Fashion,832.0
+2023-03-19,Home & Kitchen,645.0
+2023-03-20,Electronics,827.0
+2023-03-20,Groceries,1509.0
+2023-03-20,Fashion,681.0
+2023-03-20,Home & Kitchen,593.0
+2023-03-21,Electronics,753.0
+2023-03-21,Groceries,1562.0
+2023-03-21,Fashion,788.0
+2023-03-21,Home & Kitchen,568.0
+2023-03-22,Electronics,860.0
+2023-03-22,Groceries,1467.0
+2023-03-22,Fashion,632.0
+2023-03-22,Home & Kitchen,541.0
+2023-03-23,Electronics,720.0
+2023-03-23,Groceries,1447.0
+2023-03-23,Fashion,747.0
+2023-03-23,Home & Kitchen,527.0
+2023-03-24,Electronics,835.0
+2023-03-24,Groceries,1534.0
+2023-03-24,Fashion,794.0
+2023-03-24,Home & Kitchen,544.0
+2023-03-25,Electronics,987.0
+2023-03-25,Groceries,1732.0
+2023-03-25,Fashion,915.0
+2023-03-25,Home & Kitchen,686.0
+2023-03-26,Electronics,974.0
+2023-03-26,Groceries,1818.0
+2023-03-26,Fashion,761.0
+2023-03-26,Home & Kitchen,657.0
+2023-03-27,Electronics,737.0
+2023-03-27,Groceries,1508.0
+2023-03-27,Fashion,650.0
+2023-03-27,Home & Kitchen,581.0
+2023-03-28,Electronics,707.0
+2023-03-28,Groceries,1426.0
+2023-03-28,Fashion,626.0
+2023-03-28,Home & Kitchen,420.0
+2023-03-29,Electronics,729.0
+2023-03-29,Groceries,1496.0
+2023-03-29,Fashion,627.0
+2023-03-29,Home & Kitchen,510.0
+2023-03-30,Electronics,891.0
+2023-03-30,Groceries,1596.0
+2023-03-30,Fashion,660.0
+2023-03-30,Home & Kitchen,447.0
+2023-03-31,Electronics,846.0
+2023-03-31,Groceries,1403.0
+2023-03-31,Fashion,634.0
+2023-03-31,Home & Kitchen,591.0
+2023-04-01,Electronics,908.0
+2023-04-01,Groceries,1716.0
+2023-04-01,Fashion,911.0
+2023-04-01,Home & Kitchen,657.0
+2023-04-02,Electronics,905.0
+2023-04-02,Groceries,1816.0
+2023-04-02,Fashion,745.0
+2023-04-02,Home & Kitchen,598.0
+2023-04-03,Electronics,823.0
+2023-04-03,Groceries,1436.0
+2023-04-03,Fashion,623.0
+2023-04-03,Home & Kitchen,492.0
+2023-04-04,Electronics,745.0
+2023-04-04,Groceries,1580.0
+2023-04-04,Fashion,694.0
+2023-04-04,Home & Kitchen,498.0
+2023-04-05,Electronics,887.0
+2023-04-05,Groceries,1515.0
+2023-04-05,Fashion,790.0
+2023-04-05,Home & Kitchen,559.0
+2023-04-06,Electronics,860.0
+2023-04-06,Groceries,1466.0
+2023-04-06,Fashion,727.0
+2023-04-06,Home & Kitchen,417.0
+2023-04-07,Electronics,724.0
+2023-04-07,Groceries,1453.0
+2023-04-07,Fashion,657.0
+2023-04-07,Home & Kitchen,466.0
+2023-04-08,Electronics,963.0
+2023-04-08,Groceries,1873.0
+2023-04-08,Fashion,763.0
+2023-04-08,Home & Kitchen,613.0
+2023-04-09,Electronics,891.0
+2023-04-09,Groceries,1874.0
+2023-04-09,Fashion,825.0
+2023-04-09,Home & Kitchen,650.0
+2023-04-10,Electronics,893.0
+2023-04-10,Groceries,1526.0
+2023-04-10,Fashion,754.0
+2023-04-10,Home & Kitchen,529.0
+2023-04-11,Electronics,716.0
+2023-04-11,Groceries,1503.0
+2023-04-11,Fashion,760.0
+2023-04-11,Home & Kitchen,536.0
+2023-04-12,Electronics,742.0
+2023-04-12,Groceries,1575.0
+2023-04-12,Fashion,638.0
+2023-04-12,Home & Kitchen,569.0
+2023-04-13,Electronics,725.0
+2023-04-13,Groceries,1498.0
+2023-04-13,Fashion,649.0
+2023-04-13,Home & Kitchen,552.0
+2023-04-14,Electronics,851.0
+2023-04-14,Groceries,1412.0
+2023-04-14,Fashion,659.0
+2023-04-14,Home & Kitchen,534.0
+2023-04-15,Electronics,916.0
+2023-04-15,Groceries,1735.0
+2023-04-15,Fashion,912.0
+2023-04-15,Home & Kitchen,519.0
+2023-04-16,Electronics,924.0
+2023-04-16,Groceries,1707.0
+2023-04-16,Fashion,883.0
+2023-04-16,Home & Kitchen,641.0
+2023-04-17,Electronics,814.0
+2023-04-17,Groceries,1542.0
+2023-04-17,Fashion,691.0
+2023-04-17,Home & Kitchen,497.0
+2023-04-18,Electronics,765.0
+2023-04-18,Groceries,1431.0
+2023-04-18,Fashion,790.0
+2023-04-18,Home & Kitchen,485.0
+2023-04-19,Electronics,750.0
+2023-04-19,Groceries,1552.0
+2023-04-19,Fashion,785.0
+2023-04-19,Home & Kitchen,462.0
+2023-04-20,Electronics,889.0
+2023-04-20,Groceries,1524.0
+2023-04-20,Fashion,749.0
+2023-04-20,Home & Kitchen,457.0
+2023-04-21,Electronics,757.0
+2023-04-21,Groceries,1485.0
+2023-04-21,Fashion,648.0
+2023-04-21,Home & Kitchen,579.0
+2023-04-22,Electronics,1029.0
+2023-04-22,Groceries,1769.0
+2023-04-22,Fashion,754.0
+2023-04-22,Home & Kitchen,553.0
+2023-04-23,Electronics,1047.0
+2023-04-23,Groceries,1800.0
+2023-04-23,Fashion,747.0
+2023-04-23,Home & Kitchen,552.0
+2023-04-24,Electronics,759.0
+2023-04-24,Groceries,1507.0
+2023-04-24,Fashion,604.0
+2023-04-24,Home & Kitchen,502.0
+2023-04-25,Electronics,895.0
+2023-04-25,Groceries,1405.0
+2023-04-25,Fashion,708.0
+2023-04-25,Home & Kitchen,515.0
+2023-04-26,Electronics,793.0
+2023-04-26,Groceries,1446.0
+2023-04-26,Fashion,698.0
+2023-04-26,Home & Kitchen,454.0
+2023-04-27,Electronics,867.0
+2023-04-27,Groceries,1451.0
+2023-04-27,Fashion,743.0
+2023-04-27,Home & Kitchen,412.0
+2023-04-28,Electronics,813.0
+2023-04-28,Groceries,1523.0
+2023-04-28,Fashion,705.0
+2023-04-28,Home & Kitchen,557.0
+2023-04-29,Electronics,1006.0
+2023-04-29,Groceries,1844.0
+2023-04-29,Fashion,859.0
+2023-04-29,Home & Kitchen,562.0
+2023-04-30,Electronics,878.0
+2023-04-30,Groceries,1791.0
+2023-04-30,Fashion,797.0
+2023-04-30,Home & Kitchen,682.0
+2023-05-01,Electronics,789.0
+2023-05-01,Groceries,1516.0
+2023-05-01,Fashion,661.0
+2023-05-01,Home & Kitchen,422.0
+2023-05-02,Electronics,826.0
+2023-05-02,Groceries,1536.0
+2023-05-02,Fashion,739.0
+2023-05-02,Home & Kitchen,528.0
+2023-05-03,Electronics,757.0
+2023-05-03,Groceries,1521.0
+2023-05-03,Fashion,600.0
+2023-05-03,Home & Kitchen,433.0
+2023-05-04,Electronics,795.0
+2023-05-04,Groceries,1525.0
+2023-05-04,Fashion,717.0
+2023-05-04,Home & Kitchen,447.0
+2023-05-05,Electronics,788.0
+2023-05-05,Groceries,1516.0
+2023-05-05,Fashion,728.0
+2023-05-05,Home & Kitchen,415.0
+2023-05-06,Electronics,1048.0
+2023-05-06,Groceries,1891.0
+2023-05-06,Fashion,930.0
+2023-05-06,Home & Kitchen,568.0
+2023-05-07,Electronics,881.0
+2023-05-07,Groceries,1792.0
+2023-05-07,Fashion,934.0
+2023-05-07,Home & Kitchen,575.0
+2023-05-08,Electronics,853.0
+2023-05-08,Groceries,1543.0
+2023-05-08,Fashion,778.0
+2023-05-08,Home & Kitchen,485.0
+2023-05-09,Electronics,884.0
+2023-05-09,Groceries,1428.0
+2023-05-09,Fashion,668.0
+2023-05-09,Home & Kitchen,446.0
+2023-05-10,Electronics,793.0
+2023-05-10,Groceries,1589.0
+2023-05-10,Fashion,796.0
+2023-05-10,Home & Kitchen,543.0
+2023-05-11,Electronics,875.0
+2023-05-11,Groceries,1484.0
+2023-05-11,Fashion,638.0
+2023-05-11,Home & Kitchen,499.0
+2023-05-12,Electronics,732.0
+2023-05-12,Groceries,1500.0
+2023-05-12,Fashion,622.0
+2023-05-12,Home & Kitchen,409.0
+2023-05-13,Electronics,928.0
+2023-05-13,Groceries,1799.0
+2023-05-13,Fashion,773.0
+2023-05-13,Home & Kitchen,679.0
+2023-05-14,Electronics,997.0
+2023-05-14,Groceries,1846.0
+2023-05-14,Fashion,925.0
+2023-05-14,Home & Kitchen,595.0
+2023-05-15,Electronics,700.0
+2023-05-15,Groceries,1468.0
+2023-05-15,Fashion,603.0
+2023-05-15,Home & Kitchen,415.0
+2023-05-16,Electronics,723.0
+2023-05-16,Groceries,1479.0
+2023-05-16,Fashion,601.0
+2023-05-16,Home & Kitchen,527.0
+2023-05-17,Electronics,859.0
+2023-05-17,Groceries,1483.0
+2023-05-17,Fashion,751.0
+2023-05-17,Home & Kitchen,539.0
+2023-05-18,Electronics,877.0
+2023-05-18,Groceries,1562.0
+2023-05-18,Fashion,723.0
+2023-05-18,Home & Kitchen,432.0
+2023-05-19,Electronics,860.0
+2023-05-19,Groceries,1588.0
+2023-05-19,Fashion,778.0
+2023-05-19,Home & Kitchen,570.0
+2023-05-20,Electronics,960.0
+2023-05-20,Groceries,1711.0
+2023-05-20,Fashion,806.0
+2023-05-20,Home & Kitchen,564.0
+2023-05-21,Electronics,1020.0
+2023-05-21,Groceries,1867.0
+2023-05-21,Fashion,813.0
+2023-05-21,Home & Kitchen,542.0
+2023-05-22,Electronics,743.0
+2023-05-22,Groceries,1428.0
+2023-05-22,Fashion,740.0
+2023-05-22,Home & Kitchen,411.0
+2023-05-23,Electronics,794.0
+2023-05-23,Groceries,1445.0
+2023-05-23,Fashion,729.0
+2023-05-23,Home & Kitchen,434.0
+2023-05-24,Electronics,780.0
+2023-05-24,Groceries,1489.0
+2023-05-24,Fashion,607.0
+2023-05-24,Home & Kitchen,492.0
+2023-05-25,Electronics,853.0
+2023-05-25,Groceries,1489.0
+2023-05-25,Fashion,761.0
+2023-05-25,Home & Kitchen,514.0
+2023-05-26,Electronics,804.0
+2023-05-26,Groceries,1534.0
+2023-05-26,Fashion,795.0
+2023-05-26,Home & Kitchen,457.0
+2023-05-27,Electronics,973.0
+2023-05-27,Groceries,1774.0
+2023-05-27,Fashion,896.0
+2023-05-27,Home & Kitchen,619.0
+2023-05-28,Electronics,1023.0
+2023-05-28,Groceries,1720.0
+2023-05-28,Fashion,903.0
+2023-05-28,Home & Kitchen,637.0
+2023-05-29,Electronics,800.0
+2023-05-29,Groceries,1551.0
+2023-05-29,Fashion,791.0
+2023-05-29,Home & Kitchen,576.0
+2023-05-30,Electronics,798.0
+2023-05-30,Groceries,1435.0
+2023-05-30,Fashion,695.0
+2023-05-30,Home & Kitchen,551.0
+2023-05-31,Electronics,850.0
+2023-05-31,Groceries,1589.0
+2023-05-31,Fashion,636.0
+2023-05-31,Home & Kitchen,411.0
+2023-06-01,Electronics,812.0
+2023-06-01,Groceries,1582.0
+2023-06-01,Fashion,612.0
+2023-06-01,Home & Kitchen,422.0
+2023-06-02,Electronics,798.0
+2023-06-02,Groceries,1504.0
+2023-06-02,Fashion,629.0
+2023-06-02,Home & Kitchen,416.0
+2023-06-03,Electronics,972.0
+2023-06-03,Groceries,1761.0
+2023-06-03,Fashion,823.0
+2023-06-03,Home & Kitchen,611.0
+2023-06-04,Electronics,945.0
+2023-06-04,Groceries,1840.0
+2023-06-04,Fashion,926.0
+2023-06-04,Home & Kitchen,518.0
+2023-06-05,Electronics,876.0
+2023-06-05,Groceries,1499.0
+2023-06-05,Fashion,739.0
+2023-06-05,Home & Kitchen,588.0
+2023-06-06,Electronics,846.0
+2023-06-06,Groceries,1475.0
+2023-06-06,Fashion,608.0
+2023-06-06,Home & Kitchen,598.0
+2023-06-07,Electronics,727.0
+2023-06-07,Groceries,1527.0
+2023-06-07,Fashion,651.0
+2023-06-07,Home & Kitchen,482.0
+2023-06-08,Electronics,810.0
+2023-06-08,Groceries,1543.0
+2023-06-08,Fashion,716.0
+2023-06-08,Home & Kitchen,468.0
+2023-06-09,Electronics,798.0
+2023-06-09,Groceries,1539.0
+2023-06-09,Fashion,624.0
+2023-06-09,Home & Kitchen,579.0
+2023-06-10,Electronics,982.0
+2023-06-10,Groceries,1752.0
+2023-06-10,Fashion,890.0
+2023-06-10,Home & Kitchen,643.0
+2023-06-11,Electronics,916.0
+2023-06-11,Groceries,1738.0
+2023-06-11,Fashion,848.0
+2023-06-11,Home & Kitchen,680.0
+2023-06-12,Electronics,741.0
+2023-06-12,Groceries,1585.0
+2023-06-12,Fashion,766.0
+2023-06-12,Home & Kitchen,541.0
+2023-06-13,Electronics,821.0
+2023-06-13,Groceries,1532.0
+2023-06-13,Fashion,762.0
+2023-06-13,Home & Kitchen,474.0
+2023-06-14,Electronics,845.0
+2023-06-14,Groceries,1475.0
+2023-06-14,Fashion,608.0
+2023-06-14,Home & Kitchen,473.0
+2023-06-15,Electronics,885.0
+2023-06-15,Groceries,1544.0
+2023-06-15,Fashion,606.0
+2023-06-15,Home & Kitchen,573.0
+2023-06-16,Electronics,840.0
+2023-06-16,Groceries,1567.0
+2023-06-16,Fashion,769.0
+2023-06-16,Home & Kitchen,536.0
+2023-06-17,Electronics,1037.0
+2023-06-17,Groceries,1726.0
+2023-06-17,Fashion,861.0
+2023-06-17,Home & Kitchen,693.0
+2023-06-18,Electronics,864.0
+2023-06-18,Groceries,1728.0
+2023-06-18,Fashion,904.0
+2023-06-18,Home & Kitchen,665.0
+2023-06-19,Electronics,782.0
+2023-06-19,Groceries,1535.0
+2023-06-19,Fashion,708.0
+2023-06-19,Home & Kitchen,464.0
+2023-06-20,Electronics,785.0
+2023-06-20,Groceries,1544.0
+2023-06-20,Fashion,670.0
+2023-06-20,Home & Kitchen,444.0
+2023-06-21,Electronics,831.0
+2023-06-21,Groceries,1435.0
+2023-06-21,Fashion,669.0
+2023-06-21,Home & Kitchen,558.0
+2023-06-22,Electronics,718.0
+2023-06-22,Groceries,1588.0
+2023-06-22,Fashion,707.0
+2023-06-22,Home & Kitchen,581.0
+2023-06-23,Electronics,866.0
+2023-06-23,Groceries,1490.0
+2023-06-23,Fashion,689.0
+2023-06-23,Home & Kitchen,418.0
+2023-06-24,Electronics,898.0
+2023-06-24,Groceries,1825.0
+2023-06-24,Fashion,934.0
+2023-06-24,Home & Kitchen,672.0
+2023-06-25,Electronics,1000.0
+2023-06-25,Groceries,1825.0
+2023-06-25,Fashion,797.0
+2023-06-25,Home & Kitchen,647.0
+2023-06-26,Electronics,899.0
+2023-06-26,Groceries,1460.0
+2023-06-26,Fashion,726.0
+2023-06-26,Home & Kitchen,504.0
+2023-06-27,Electronics,866.0
+2023-06-27,Groceries,1400.0
+2023-06-27,Fashion,730.0
+2023-06-27,Home & Kitchen,491.0
+2023-06-28,Electronics,889.0
+2023-06-28,Groceries,1590.0
+2023-06-28,Fashion,712.0
+2023-06-28,Home & Kitchen,552.0
+2023-06-29,Electronics,755.0
+2023-06-29,Groceries,1560.0
+2023-06-29,Fashion,765.0
+2023-06-29,Home & Kitchen,516.0
+2023-06-30,Electronics,833.0
+2023-06-30,Groceries,1457.0
+2023-06-30,Fashion,643.0
+2023-06-30,Home & Kitchen,572.0
+2023-07-01,Electronics,1019.0
+2023-07-01,Groceries,1872.0
+2023-07-01,Fashion,800.0
+2023-07-01,Home & Kitchen,546.0
+2023-07-02,Electronics,1008.0
+2023-07-02,Groceries,1779.0
+2023-07-02,Fashion,857.0
+2023-07-02,Home & Kitchen,663.0
+2023-07-03,Electronics,846.0
+2023-07-03,Groceries,1419.0
+2023-07-03,Fashion,784.0
+2023-07-03,Home & Kitchen,545.0
+2023-07-04,Electronics,746.0
+2023-07-04,Groceries,1448.0
+2023-07-04,Fashion,613.0
+2023-07-04,Home & Kitchen,542.0
+2023-07-05,Electronics,858.0
+2023-07-05,Groceries,1400.0
+2023-07-05,Fashion,716.0
+2023-07-05,Home & Kitchen,453.0
+2023-07-06,Electronics,817.0
+2023-07-06,Groceries,1402.0
+2023-07-06,Fashion,743.0
+2023-07-06,Home & Kitchen,584.0
+2023-07-07,Electronics,711.0
+2023-07-07,Groceries,1473.0
+2023-07-07,Fashion,615.0
+2023-07-07,Home & Kitchen,599.0
+2023-07-08,Electronics,961.0
+2023-07-08,Groceries,1851.0
+2023-07-08,Fashion,895.0
+2023-07-08,Home & Kitchen,616.0
+2023-07-09,Electronics,867.0
+2023-07-09,Groceries,1821.0
+2023-07-09,Fashion,831.0
+2023-07-09,Home & Kitchen,663.0
+2023-07-10,Electronics,789.0
+2023-07-10,Groceries,1535.0
+2023-07-10,Fashion,785.0
+2023-07-10,Home & Kitchen,459.0
+2023-07-11,Electronics,877.0
+2023-07-11,Groceries,1427.0
+2023-07-11,Fashion,700.0
+2023-07-11,Home & Kitchen,440.0
+2023-07-12,Electronics,891.0
+2023-07-12,Groceries,1554.0
+2023-07-12,Fashion,790.0
+2023-07-12,Home & Kitchen,544.0
+2023-07-13,Electronics,860.0
+2023-07-13,Groceries,1556.0
+2023-07-13,Fashion,740.0
+2023-07-13,Home & Kitchen,445.0
+2023-07-14,Electronics,734.0
+2023-07-14,Groceries,1533.0
+2023-07-14,Fashion,681.0
+2023-07-14,Home & Kitchen,514.0
+2023-07-15,Electronics,1056.0
+2023-07-15,Groceries,1746.0
+2023-07-15,Fashion,892.0
+2023-07-15,Home & Kitchen,693.0
+2023-07-16,Electronics,869.0
+2023-07-16,Groceries,1755.0
+2023-07-16,Fashion,769.0
+2023-07-16,Home & Kitchen,608.0
+2023-07-17,Electronics,704.0
+2023-07-17,Groceries,1518.0
+2023-07-17,Fashion,632.0
+2023-07-17,Home & Kitchen,517.0
+2023-07-18,Electronics,764.0
+2023-07-18,Groceries,1545.0
+2023-07-18,Fashion,776.0
+2023-07-18,Home & Kitchen,410.0
+2023-07-19,Electronics,784.0
+2023-07-19,Groceries,1425.0
+2023-07-19,Fashion,662.0
+2023-07-19,Home & Kitchen,485.0
+2023-07-20,Electronics,758.0
+2023-07-20,Groceries,1426.0
+2023-07-20,Fashion,776.0
+2023-07-20,Home & Kitchen,560.0
+2023-07-21,Electronics,797.0
+2023-07-21,Groceries,1504.0
+2023-07-21,Fashion,698.0
+2023-07-21,Home & Kitchen,528.0
+2023-07-22,Electronics,1008.0
+2023-07-22,Groceries,1754.0
+2023-07-22,Fashion,745.0
+2023-07-22,Home & Kitchen,696.0
+2023-07-23,Electronics,954.0
+2023-07-23,Groceries,1832.0
+2023-07-23,Fashion,841.0
+2023-07-23,Home & Kitchen,502.0
+2023-07-24,Electronics,880.0
+2023-07-24,Groceries,1422.0
+2023-07-24,Fashion,652.0
+2023-07-24,Home & Kitchen,564.0
+2023-07-25,Electronics,782.0
+2023-07-25,Groceries,1544.0
+2023-07-25,Fashion,684.0
+2023-07-25,Home & Kitchen,477.0
+2023-07-26,Electronics,809.0
+2023-07-26,Groceries,1400.0
+2023-07-26,Fashion,650.0
+2023-07-26,Home & Kitchen,572.0
+2023-07-27,Electronics,703.0
+2023-07-27,Groceries,1589.0
+2023-07-27,Fashion,792.0
+2023-07-27,Home & Kitchen,512.0
+2023-07-28,Electronics,731.0
+2023-07-28,Groceries,1433.0
+2023-07-28,Fashion,691.0
+2023-07-28,Home & Kitchen,494.0
+2023-07-29,Electronics,931.0
+2023-07-29,Groceries,1738.0
+2023-07-29,Fashion,893.0
+2023-07-29,Home & Kitchen,661.0
+2023-07-30,Electronics,1041.0
+2023-07-30,Groceries,1817.0
+2023-07-30,Fashion,742.0
+2023-07-30,Home & Kitchen,622.0
+2023-07-31,Electronics,749.0
+2023-07-31,Groceries,1411.0
+2023-07-31,Fashion,792.0
+2023-07-31,Home & Kitchen,453.0
+2023-08-01,Electronics,832.0
+2023-08-01,Groceries,1456.0
+2023-08-01,Fashion,744.0
+2023-08-01,Home & Kitchen,511.0
+2023-08-02,Electronics,746.0
+2023-08-02,Groceries,1550.0
+2023-08-02,Fashion,684.0
+2023-08-02,Home & Kitchen,541.0
+2023-08-03,Electronics,765.0
+2023-08-03,Groceries,1474.0
+2023-08-03,Fashion,778.0
+2023-08-03,Home & Kitchen,502.0
+2023-08-04,Electronics,865.0
+2023-08-04,Groceries,1591.0
+2023-08-04,Fashion,637.0
+2023-08-04,Home & Kitchen,449.0
+2023-08-05,Electronics,957.0
+2023-08-05,Groceries,1781.0
+2023-08-05,Fashion,769.0
+2023-08-05,Home & Kitchen,578.0
+2023-08-06,Electronics,950.0
+2023-08-06,Groceries,1878.0
+2023-08-06,Fashion,930.0
+2023-08-06,Home & Kitchen,551.0
+2023-08-07,Electronics,865.0
+2023-08-07,Groceries,1478.0
+2023-08-07,Fashion,629.0
+2023-08-07,Home & Kitchen,505.0
+2023-08-08,Electronics,750.0
+2023-08-08,Groceries,1480.0
+2023-08-08,Fashion,732.0
+2023-08-08,Home & Kitchen,428.0
+2023-08-09,Electronics,831.0
+2023-08-09,Groceries,1537.0
+2023-08-09,Fashion,783.0
+2023-08-09,Home & Kitchen,544.0
+2023-08-10,Electronics,773.0
+2023-08-10,Groceries,1416.0
+2023-08-10,Fashion,683.0
+2023-08-10,Home & Kitchen,468.0
+2023-08-11,Electronics,733.0
+2023-08-11,Groceries,1405.0
+2023-08-11,Fashion,652.0
+2023-08-11,Home & Kitchen,593.0
+2023-08-12,Electronics,985.0
+2023-08-12,Groceries,1742.0
+2023-08-12,Fashion,854.0
+2023-08-12,Home & Kitchen,610.0
+2023-08-13,Electronics,1010.0
+2023-08-13,Groceries,1882.0
+2023-08-13,Fashion,819.0
+2023-08-13,Home & Kitchen,594.0
+2023-08-14,Electronics,817.0
+2023-08-14,Groceries,1543.0
+2023-08-14,Fashion,607.0
+2023-08-14,Home & Kitchen,531.0
+2023-08-15,Electronics,803.0
+2023-08-15,Groceries,1531.0
+2023-08-15,Fashion,783.0
+2023-08-15,Home & Kitchen,424.0
+2023-08-16,Electronics,894.0
+2023-08-16,Groceries,1495.0
+2023-08-16,Fashion,794.0
+2023-08-16,Home & Kitchen,554.0
+2023-08-17,Electronics,792.0
+2023-08-17,Groceries,1559.0
+2023-08-17,Fashion,777.0
+2023-08-17,Home & Kitchen,460.0
+2023-08-18,Electronics,821.0
+2023-08-18,Groceries,1450.0
+2023-08-18,Fashion,746.0
+2023-08-18,Home & Kitchen,420.0
+2023-08-19,Electronics,864.0
+2023-08-19,Groceries,1791.0
+2023-08-19,Fashion,909.0
+2023-08-19,Home & Kitchen,560.0
+2023-08-20,Electronics,881.0
+2023-08-20,Groceries,1848.0
+2023-08-20,Fashion,809.0
+2023-08-20,Home & Kitchen,500.0
+2023-08-21,Electronics,832.0
+2023-08-21,Groceries,1411.0
+2023-08-21,Fashion,689.0
+2023-08-21,Home & Kitchen,445.0
+2023-08-22,Electronics,733.0
+2023-08-22,Groceries,1576.0
+2023-08-22,Fashion,677.0
+2023-08-22,Home & Kitchen,444.0
+2023-08-23,Electronics,854.0
+2023-08-23,Groceries,1472.0
+2023-08-23,Fashion,625.0
+2023-08-23,Home & Kitchen,446.0
+2023-08-24,Electronics,820.0
+2023-08-24,Groceries,1455.0
+2023-08-24,Fashion,693.0
+2023-08-24,Home & Kitchen,506.0
+2023-08-25,Electronics,762.0
+2023-08-25,Groceries,1447.0
+2023-08-25,Fashion,660.0
+2023-08-25,Home & Kitchen,480.0
+2023-08-26,Electronics,885.0
+2023-08-26,Groceries,1735.0
+2023-08-26,Fashion,740.0
+2023-08-26,Home & Kitchen,507.0
+2023-08-27,Electronics,972.0
+2023-08-27,Groceries,1798.0
+2023-08-27,Fashion,919.0
+2023-08-27,Home & Kitchen,546.0
+2023-08-28,Electronics,826.0
+2023-08-28,Groceries,1455.0
+2023-08-28,Fashion,613.0
+2023-08-28,Home & Kitchen,427.0
+2023-08-29,Electronics,777.0
+2023-08-29,Groceries,1529.0
+2023-08-29,Fashion,708.0
+2023-08-29,Home & Kitchen,553.0
+2023-08-30,Electronics,713.0
+2023-08-30,Groceries,1586.0
+2023-08-30,Fashion,655.0
+2023-08-30,Home & Kitchen,514.0
+2023-08-31,Electronics,706.0
+2023-08-31,Groceries,1402.0
+2023-08-31,Fashion,710.0
+2023-08-31,Home & Kitchen,550.0
+2023-09-01,Electronics,806.0
+2023-09-01,Groceries,1417.0
+2023-09-01,Fashion,637.0
+2023-09-01,Home & Kitchen,514.0
+2023-09-02,Electronics,874.0
+2023-09-02,Groceries,1891.0
+2023-09-02,Fashion,858.0
+2023-09-02,Home & Kitchen,527.0
+2023-09-03,Electronics,898.0
+2023-09-03,Groceries,1884.0
+2023-09-03,Fashion,756.0
+2023-09-03,Home & Kitchen,585.0
+2023-09-04,Electronics,825.0
+2023-09-04,Groceries,1443.0
+2023-09-04,Fashion,624.0
+2023-09-04,Home & Kitchen,544.0
+2023-09-05,Electronics,712.0
+2023-09-05,Groceries,1424.0
+2023-09-05,Fashion,667.0
+2023-09-05,Home & Kitchen,537.0
+2023-09-06,Electronics,766.0
+2023-09-06,Groceries,1508.0
+2023-09-06,Fashion,745.0
+2023-09-06,Home & Kitchen,510.0
+2023-09-07,Electronics,810.0
+2023-09-07,Groceries,1433.0
+2023-09-07,Fashion,710.0
+2023-09-07,Home & Kitchen,407.0
+2023-09-08,Electronics,867.0
+2023-09-08,Groceries,1512.0
+2023-09-08,Fashion,682.0
+2023-09-08,Home & Kitchen,441.0
+2023-09-09,Electronics,1028.0
+2023-09-09,Groceries,1800.0
+2023-09-09,Fashion,745.0
+2023-09-09,Home & Kitchen,679.0
+2023-09-10,Electronics,885.0
+2023-09-10,Groceries,1763.0
+2023-09-10,Fashion,926.0
+2023-09-10,Home & Kitchen,683.0
+2023-09-11,Electronics,758.0
+2023-09-11,Groceries,1508.0
+2023-09-11,Fashion,797.0
+2023-09-11,Home & Kitchen,520.0
+2023-09-12,Electronics,732.0
+2023-09-12,Groceries,1580.0
+2023-09-12,Fashion,749.0
+2023-09-12,Home & Kitchen,420.0
+2023-09-13,Electronics,897.0
+2023-09-13,Groceries,1469.0
+2023-09-13,Fashion,711.0
+2023-09-13,Home & Kitchen,403.0
+2023-09-14,Electronics,793.0
+2023-09-14,Groceries,1474.0
+2023-09-14,Fashion,789.0
+2023-09-14,Home & Kitchen,461.0
+2023-09-15,Electronics,793.0
+2023-09-15,Groceries,1494.0
+2023-09-15,Fashion,751.0
+2023-09-15,Home & Kitchen,454.0
+2023-09-16,Electronics,996.0
+2023-09-16,Groceries,1830.0
+2023-09-16,Fashion,770.0
+2023-09-16,Home & Kitchen,539.0
+2023-09-17,Electronics,895.0
+2023-09-17,Groceries,1851.0
+2023-09-17,Fashion,745.0
+2023-09-17,Home & Kitchen,565.0
+2023-09-18,Electronics,774.0
+2023-09-18,Groceries,1403.0
+2023-09-18,Fashion,678.0
+2023-09-18,Home & Kitchen,533.0
+2023-09-19,Electronics,817.0
+2023-09-19,Groceries,1512.0
+2023-09-19,Fashion,693.0
+2023-09-19,Home & Kitchen,578.0
+2023-09-20,Electronics,761.0
+2023-09-20,Groceries,1584.0
+2023-09-20,Fashion,793.0
+2023-09-20,Home & Kitchen,478.0
+2023-09-21,Electronics,835.0
+2023-09-21,Groceries,1425.0
+2023-09-21,Fashion,778.0
+2023-09-21,Home & Kitchen,572.0
+2023-09-22,Electronics,743.0
+2023-09-22,Groceries,1532.0
+2023-09-22,Fashion,669.0
+2023-09-22,Home & Kitchen,553.0
+2023-09-23,Electronics,977.0
+2023-09-23,Groceries,1767.0
+2023-09-23,Fashion,758.0
+2023-09-23,Home & Kitchen,519.0
+2023-09-24,Electronics,972.0
+2023-09-24,Groceries,1839.0
+2023-09-24,Fashion,786.0
+2023-09-24,Home & Kitchen,500.0
+2023-09-25,Electronics,789.0
+2023-09-25,Groceries,1541.0
+2023-09-25,Fashion,663.0
+2023-09-25,Home & Kitchen,437.0
+2023-09-26,Electronics,736.0
+2023-09-26,Groceries,1525.0
+2023-09-26,Fashion,738.0
+2023-09-26,Home & Kitchen,499.0
+2023-09-27,Electronics,776.0
+2023-09-27,Groceries,1402.0
+2023-09-27,Fashion,760.0
+2023-09-27,Home & Kitchen,533.0
+2023-09-28,Electronics,877.0
+2023-09-28,Groceries,1409.0
+2023-09-28,Fashion,604.0
+2023-09-28,Home & Kitchen,550.0
+2023-09-29,Electronics,837.0
+2023-09-29,Groceries,1571.0
+2023-09-29,Fashion,729.0
+2023-09-29,Home & Kitchen,412.0
+2023-09-30,Electronics,1027.0
+2023-09-30,Groceries,1829.0
+2023-09-30,Fashion,823.0
+2023-09-30,Home & Kitchen,564.0
+2023-10-01,Electronics,922.0
+2023-10-01,Groceries,1800.0
+2023-10-01,Fashion,812.0
+2023-10-01,Home & Kitchen,516.0
+2023-10-02,Electronics,708.0
+2023-10-02,Groceries,1542.0
+2023-10-02,Fashion,751.0
+2023-10-02,Home & Kitchen,437.0
+2023-10-03,Electronics,862.0
+2023-10-03,Groceries,1493.0
+2023-10-03,Fashion,694.0
+2023-10-03,Home & Kitchen,448.0
+2023-10-04,Electronics,768.0
+2023-10-04,Groceries,1461.0
+2023-10-04,Fashion,787.0
+2023-10-04,Home & Kitchen,577.0
+2023-10-05,Electronics,777.0
+2023-10-05,Groceries,1516.0
+2023-10-05,Fashion,719.0
+2023-10-05,Home & Kitchen,536.0
+2023-10-06,Electronics,861.0
+2023-10-06,Groceries,1475.0
+2023-10-06,Fashion,634.0
+2023-10-06,Home & Kitchen,400.0
+2023-10-07,Electronics,899.0
+2023-10-07,Groceries,1763.0
+2023-10-07,Fashion,889.0
+2023-10-07,Home & Kitchen,559.0
+2023-10-08,Electronics,923.0
+2023-10-08,Groceries,1792.0
+2023-10-08,Fashion,811.0
+2023-10-08,Home & Kitchen,510.0
+2023-10-09,Electronics,804.0
+2023-10-09,Groceries,1413.0
+2023-10-09,Fashion,659.0
+2023-10-09,Home & Kitchen,429.0
+2023-10-10,Electronics,734.0
+2023-10-10,Groceries,1564.0
+2023-10-10,Fashion,604.0
+2023-10-10,Home & Kitchen,482.0
+2023-10-11,Electronics,822.0
+2023-10-11,Groceries,1477.0
+2023-10-11,Fashion,753.0
+2023-10-11,Home & Kitchen,461.0
+2023-10-12,Electronics,831.0
+2023-10-12,Groceries,1488.0
+2023-10-12,Fashion,641.0
+2023-10-12,Home & Kitchen,488.0
+2023-10-13,Electronics,845.0
+2023-10-13,Groceries,1439.0
+2023-10-13,Fashion,671.0
+2023-10-13,Home & Kitchen,438.0
+2023-10-14,Electronics,963.0
+2023-10-14,Groceries,1713.0
+2023-10-14,Fashion,771.0
+2023-10-14,Home & Kitchen,678.0
+2023-10-15,Electronics,984.0
+2023-10-15,Groceries,1865.0
+2023-10-15,Fashion,836.0
+2023-10-15,Home & Kitchen,522.0
+2023-10-16,Electronics,762.0
+2023-10-16,Groceries,1542.0
+2023-10-16,Fashion,752.0
+2023-10-16,Home & Kitchen,544.0
+2023-10-17,Electronics,893.0
+2023-10-17,Groceries,1452.0
+2023-10-17,Fashion,703.0
+2023-10-17,Home & Kitchen,503.0
+2023-10-18,Electronics,878.0
+2023-10-18,Groceries,1438.0
+2023-10-18,Fashion,778.0
+2023-10-18,Home & Kitchen,597.0
+2023-10-19,Electronics,833.0
+2023-10-19,Groceries,1466.0
+2023-10-19,Fashion,734.0
+2023-10-19,Home & Kitchen,578.0
+2023-10-20,Electronics,899.0
+2023-10-20,Groceries,1441.0
+2023-10-20,Fashion,791.0
+2023-10-20,Home & Kitchen,414.0
+2023-10-21,Electronics,970.0
+2023-10-21,Groceries,1856.0
+2023-10-21,Fashion,772.0
+2023-10-21,Home & Kitchen,654.0
+2023-10-22,Electronics,1023.0
+2023-10-22,Groceries,1856.0
+2023-10-22,Fashion,777.0
+2023-10-22,Home & Kitchen,684.0
+2023-10-23,Electronics,796.0
+2023-10-23,Groceries,1554.0
+2023-10-23,Fashion,782.0
+2023-10-23,Home & Kitchen,432.0
+2023-10-24,Electronics,895.0
+2023-10-24,Groceries,1485.0
+2023-10-24,Fashion,665.0
+2023-10-24,Home & Kitchen,409.0
+2023-10-25,Electronics,704.0
+2023-10-25,Groceries,1522.0
+2023-10-25,Fashion,673.0
+2023-10-25,Home & Kitchen,496.0
+2023-10-26,Electronics,817.0
+2023-10-26,Groceries,1437.0
+2023-10-26,Fashion,740.0
+2023-10-26,Home & Kitchen,558.0
+2023-10-27,Electronics,746.0
+2023-10-27,Groceries,1508.0
+2023-10-27,Fashion,779.0
+2023-10-27,Home & Kitchen,583.0
+2023-10-28,Electronics,874.0
+2023-10-28,Groceries,1856.0
+2023-10-28,Fashion,875.0
+2023-10-28,Home & Kitchen,504.0
+2023-10-29,Electronics,1016.0
+2023-10-29,Groceries,1746.0
+2023-10-29,Fashion,807.0
+2023-10-29,Home & Kitchen,575.0
+2023-10-30,Electronics,872.0
+2023-10-30,Groceries,1529.0
+2023-10-30,Fashion,754.0
+2023-10-30,Home & Kitchen,494.0
+2023-10-31,Electronics,814.0
+2023-10-31,Groceries,1563.0
+2023-10-31,Fashion,635.0
+2023-10-31,Home & Kitchen,425.0
+2023-11-01,Electronics,742.0
+2023-11-01,Groceries,1426.0
+2023-11-01,Fashion,668.0
+2023-11-01,Home & Kitchen,547.0
+2023-11-02,Electronics,710.0
+2023-11-02,Groceries,1473.0
+2023-11-02,Fashion,703.0
+2023-11-02,Home & Kitchen,437.0
+2023-11-03,Electronics,833.0
+2023-11-03,Groceries,1599.0
+2023-11-03,Fashion,622.0
+2023-11-03,Home & Kitchen,446.0
+2023-11-04,Electronics,949.0
+2023-11-04,Groceries,1745.0
+2023-11-04,Fashion,846.0
+2023-11-04,Home & Kitchen,639.0
+2023-11-05,Electronics,1000.0
+2023-11-05,Groceries,1803.0
+2023-11-05,Fashion,929.0
+2023-11-05,Home & Kitchen,610.0
+2023-11-06,Electronics,803.0
+2023-11-06,Groceries,1459.0
+2023-11-06,Fashion,770.0
+2023-11-06,Home & Kitchen,499.0
+2023-11-07,Electronics,767.0
+2023-11-07,Groceries,1532.0
+2023-11-07,Fashion,719.0
+2023-11-07,Home & Kitchen,436.0
+2023-11-08,Electronics,771.0
+2023-11-08,Groceries,1526.0
+2023-11-08,Fashion,705.0
+2023-11-08,Home & Kitchen,491.0
+2023-11-09,Electronics,730.0
+2023-11-09,Groceries,1521.0
+2023-11-09,Fashion,736.0
+2023-11-09,Home & Kitchen,450.0
+2023-11-10,Electronics,728.0
+2023-11-10,Groceries,1439.0
+2023-11-10,Fashion,640.0
+2023-11-10,Home & Kitchen,410.0
+2023-11-11,Electronics,1010.0
+2023-11-11,Groceries,1700.0
+2023-11-11,Fashion,785.0
+2023-11-11,Home & Kitchen,600.0
+2023-11-12,Electronics,1008.0
+2023-11-12,Groceries,1789.0
+2023-11-12,Fashion,849.0
+2023-11-12,Home & Kitchen,663.0
+2023-11-13,Electronics,881.0
+2023-11-13,Groceries,1456.0
+2023-11-13,Fashion,600.0
+2023-11-13,Home & Kitchen,462.0
+2023-11-14,Electronics,881.0
+2023-11-14,Groceries,1454.0
+2023-11-14,Fashion,714.0
+2023-11-14,Home & Kitchen,567.0
+2023-11-15,Electronics,842.0
+2023-11-15,Groceries,1548.0
+2023-11-15,Fashion,774.0
+2023-11-15,Home & Kitchen,452.0
+2023-11-16,Electronics,836.0
+2023-11-16,Groceries,1579.0
+2023-11-16,Fashion,656.0
+2023-11-16,Home & Kitchen,516.0
+2023-11-17,Electronics,853.0
+2023-11-17,Groceries,1568.0
+2023-11-17,Fashion,634.0
+2023-11-17,Home & Kitchen,462.0
+2023-11-18,Electronics,884.0
+2023-11-18,Groceries,1789.0
+2023-11-18,Fashion,814.0
+2023-11-18,Home & Kitchen,537.0
+2023-11-19,Electronics,989.0
+2023-11-19,Groceries,1834.0
+2023-11-19,Fashion,901.0
+2023-11-19,Home & Kitchen,590.0
+2023-11-20,Electronics,716.0
+2023-11-20,Groceries,1527.0
+2023-11-20,Fashion,770.0
+2023-11-20,Home & Kitchen,586.0
+2023-11-21,Electronics,807.0
+2023-11-21,Groceries,1578.0
+2023-11-21,Fashion,781.0
+2023-11-21,Home & Kitchen,551.0
+2023-11-22,Electronics,724.0
+2023-11-22,Groceries,1598.0
+2023-11-22,Fashion,779.0
+2023-11-22,Home & Kitchen,597.0
+2023-11-23,Electronics,787.0
+2023-11-23,Groceries,1560.0
+2023-11-23,Fashion,776.0
+2023-11-23,Home & Kitchen,428.0
+2023-11-24,Electronics,762.0
+2023-11-24,Groceries,1549.0
+2023-11-24,Fashion,753.0
+2023-11-24,Home & Kitchen,555.0
+2023-11-25,Electronics,973.0
+2023-11-25,Groceries,1748.0
+2023-11-25,Fashion,938.0
+2023-11-25,Home & Kitchen,580.0
+2023-11-26,Electronics,943.0
+2023-11-26,Groceries,1804.0
+2023-11-26,Fashion,916.0
+2023-11-26,Home & Kitchen,647.0
+2023-11-27,Electronics,817.0
+2023-11-27,Groceries,1485.0
+2023-11-27,Fashion,662.0
+2023-11-27,Home & Kitchen,588.0
+2023-11-28,Electronics,803.0
+2023-11-28,Groceries,1448.0
+2023-11-28,Fashion,670.0
+2023-11-28,Home & Kitchen,400.0
+2023-11-29,Electronics,840.0
+2023-11-29,Groceries,1578.0
+2023-11-29,Fashion,722.0
+2023-11-29,Home & Kitchen,583.0
+2023-11-30,Electronics,761.0
+2023-11-30,Groceries,1431.0
+2023-11-30,Fashion,757.0
+2023-11-30,Home & Kitchen,428.0
+2023-12-01,Electronics,748.0
+2023-12-01,Groceries,1572.0
+2023-12-01,Fashion,629.0
+2023-12-01,Home & Kitchen,543.0
+2023-12-02,Electronics,1027.0
+2023-12-02,Groceries,1718.0
+2023-12-02,Fashion,757.0
+2023-12-02,Home & Kitchen,500.0
+2023-12-03,Electronics,937.0
+2023-12-03,Groceries,1814.0
+2023-12-03,Fashion,914.0
+2023-12-03,Home & Kitchen,693.0
+2023-12-04,Electronics,812.0
+2023-12-04,Groceries,1513.0
+2023-12-04,Fashion,765.0
+2023-12-04,Home & Kitchen,578.0
+2023-12-05,Electronics,762.0
+2023-12-05,Groceries,1531.0
+2023-12-05,Fashion,728.0
+2023-12-05,Home & Kitchen,407.0
+2023-12-06,Electronics,856.0
+2023-12-06,Groceries,1454.0
+2023-12-06,Fashion,702.0
+2023-12-06,Home & Kitchen,530.0
+2023-12-07,Electronics,731.0
+2023-12-07,Groceries,1409.0
+2023-12-07,Fashion,709.0
+2023-12-07,Home & Kitchen,561.0
+2023-12-08,Electronics,823.0
+2023-12-08,Groceries,1486.0
+2023-12-08,Fashion,654.0
+2023-12-08,Home & Kitchen,431.0
+2023-12-09,Electronics,1037.0
+2023-12-09,Groceries,1834.0
+2023-12-09,Fashion,832.0
+2023-12-09,Home & Kitchen,507.0
+2023-12-10,Electronics,924.0
+2023-12-10,Groceries,1756.0
+2023-12-10,Fashion,806.0
+2023-12-10,Home & Kitchen,686.0
+2023-12-11,Electronics,771.0
+2023-12-11,Groceries,1453.0
+2023-12-11,Fashion,666.0
+2023-12-11,Home & Kitchen,450.0
+2023-12-12,Electronics,796.0
+2023-12-12,Groceries,1491.0
+2023-12-12,Fashion,607.0
+2023-12-12,Home & Kitchen,561.0
+2023-12-13,Electronics,734.0
+2023-12-13,Groceries,1495.0
+2023-12-13,Fashion,687.0
+2023-12-13,Home & Kitchen,477.0
+2023-12-14,Electronics,731.0
+2023-12-14,Groceries,1519.0
+2023-12-14,Fashion,645.0
+2023-12-14,Home & Kitchen,543.0
+2023-12-15,Electronics,895.0
+2023-12-15,Groceries,1564.0
+2023-12-15,Fashion,781.0
+2023-12-15,Home & Kitchen,541.0
+2023-12-16,Electronics,914.0
+2023-12-16,Groceries,1875.0
+2023-12-16,Fashion,746.0
+2023-12-16,Home & Kitchen,573.0
+2023-12-17,Electronics,866.0
+2023-12-17,Groceries,1860.0
+2023-12-17,Fashion,890.0
+2023-12-17,Home & Kitchen,584.0
+2023-12-18,Electronics,846.0
+2023-12-18,Groceries,1511.0
+2023-12-18,Fashion,724.0
+2023-12-18,Home & Kitchen,546.0
+2023-12-19,Electronics,735.0
+2023-12-19,Groceries,1428.0
+2023-12-19,Fashion,787.0
+2023-12-19,Home & Kitchen,481.0
+2023-12-20,Electronics,701.0
+2023-12-20,Groceries,1528.0
+2023-12-20,Fashion,646.0
+2023-12-20,Home & Kitchen,596.0
+2023-12-21,Electronics,847.0
+2023-12-21,Groceries,1410.0
+2023-12-21,Fashion,729.0
+2023-12-21,Home & Kitchen,594.0
+2023-12-22,Electronics,818.0
+2023-12-22,Groceries,1539.0
+2023-12-22,Fashion,619.0
+2023-12-22,Home & Kitchen,404.0
+2023-12-23,Electronics,896.0
+2023-12-23,Groceries,1865.0
+2023-12-23,Fashion,876.0
+2023-12-23,Home & Kitchen,552.0
+2023-12-24,Electronics,1031.0
+2023-12-24,Groceries,1798.0
+2023-12-24,Fashion,825.0
+2023-12-24,Home & Kitchen,607.0
+2023-12-25,Electronics,723.0
+2023-12-25,Groceries,1480.0
+2023-12-25,Fashion,757.0
+2023-12-25,Home & Kitchen,519.0
+2023-12-26,Electronics,758.0
+2023-12-26,Groceries,1527.0
+2023-12-26,Fashion,713.0
+2023-12-26,Home & Kitchen,514.0
+2023-12-27,Electronics,713.0
+2023-12-27,Groceries,1408.0
+2023-12-27,Fashion,639.0
+2023-12-27,Home & Kitchen,593.0
+2023-12-28,Electronics,724.0
+2023-12-28,Groceries,1502.0
+2023-12-28,Fashion,621.0
+2023-12-28,Home & Kitchen,403.0
+2023-12-29,Electronics,853.0
+2023-12-29,Groceries,1585.0
+2023-12-29,Fashion,628.0
+2023-12-29,Home & Kitchen,508.0
+2023-12-30,Electronics,957.0
+2023-12-30,Groceries,1736.0
+2023-12-30,Fashion,814.0
+2023-12-30,Home & Kitchen,569.0
+2023-12-31,Electronics,1005.0
+2023-12-31,Groceries,1827.0
+2023-12-31,Fashion,824.0
+2023-12-31,Home & Kitchen,541.0
+2024-01-01,Electronics,799.0
+2024-01-01,Groceries,1440.0
+2024-01-01,Fashion,765.0
+2024-01-01,Home & Kitchen,433.0
+2024-01-02,Electronics,716.0
+2024-01-02,Groceries,1564.0
+2024-01-02,Fashion,752.0
+2024-01-02,Home & Kitchen,521.0
+2024-01-03,Electronics,775.0
+2024-01-03,Groceries,1486.0
+2024-01-03,Fashion,716.0
+2024-01-03,Home & Kitchen,505.0
+2024-01-04,Electronics,785.0
+2024-01-04,Groceries,1426.0
+2024-01-04,Fashion,656.0
+2024-01-04,Home & Kitchen,430.0
+2024-01-05,Electronics,833.0
+2024-01-05,Groceries,1567.0
+2024-01-05,Fashion,697.0
+2024-01-05,Home & Kitchen,411.0
+2024-01-06,Electronics,912.0
+2024-01-06,Groceries,1898.0
+2024-01-06,Fashion,877.0
+2024-01-06,Home & Kitchen,672.0
+2024-01-07,Electronics,1004.0
+2024-01-07,Groceries,1853.0
+2024-01-07,Fashion,929.0
+2024-01-07,Home & Kitchen,621.0
+2024-01-08,Electronics,745.0
+2024-01-08,Groceries,1463.0
+2024-01-08,Fashion,729.0
+2024-01-08,Home & Kitchen,453.0
+2024-01-09,Electronics,806.0
+2024-01-09,Groceries,1592.0
+2024-01-09,Fashion,650.0
+2024-01-09,Home & Kitchen,580.0
+2024-01-10,Electronics,735.0
+2024-01-10,Groceries,1514.0
+2024-01-10,Fashion,625.0
+2024-01-10,Home & Kitchen,428.0
+2024-01-11,Electronics,848.0
+2024-01-11,Groceries,1410.0
+2024-01-11,Fashion,639.0
+2024-01-11,Home & Kitchen,410.0
+2024-01-12,Electronics,863.0
+2024-01-12,Groceries,1512.0
+2024-01-12,Fashion,786.0
+2024-01-12,Home & Kitchen,438.0
+2024-01-13,Electronics,913.0
+2024-01-13,Groceries,1797.0
+2024-01-13,Fashion,794.0
+2024-01-13,Home & Kitchen,610.0
+2024-01-14,Electronics,1011.0
+2024-01-14,Groceries,1849.0
+2024-01-14,Fashion,808.0
+2024-01-14,Home & Kitchen,555.0
+2024-01-15,Electronics,732.0
+2024-01-15,Groceries,1435.0
+2024-01-15,Fashion,747.0
+2024-01-15,Home & Kitchen,480.0
+2024-01-16,Electronics,889.0
+2024-01-16,Groceries,1508.0
+2024-01-16,Fashion,753.0
+2024-01-16,Home & Kitchen,593.0
+2024-01-17,Electronics,772.0
+2024-01-17,Groceries,1439.0
+2024-01-17,Fashion,616.0
+2024-01-17,Home & Kitchen,528.0
+2024-01-18,Electronics,760.0
+2024-01-18,Groceries,1570.0
+2024-01-18,Fashion,703.0
+2024-01-18,Home & Kitchen,441.0
+2024-01-19,Electronics,724.0
+2024-01-19,Groceries,1438.0
+2024-01-19,Fashion,634.0
+2024-01-19,Home & Kitchen,530.0
+2024-01-20,Electronics,967.0
+2024-01-20,Groceries,1871.0
+2024-01-20,Fashion,918.0
+2024-01-20,Home & Kitchen,601.0
+2024-01-21,Electronics,957.0
+2024-01-21,Groceries,1711.0
+2024-01-21,Fashion,758.0
+2024-01-21,Home & Kitchen,600.0
+2024-01-22,Electronics,743.0
+2024-01-22,Groceries,1586.0
+2024-01-22,Fashion,648.0
+2024-01-22,Home & Kitchen,588.0
+2024-01-23,Electronics,716.0
+2024-01-23,Groceries,1473.0
+2024-01-23,Fashion,656.0
+2024-01-23,Home & Kitchen,454.0
+2024-01-24,Electronics,746.0
+2024-01-24,Groceries,1411.0
+2024-01-24,Fashion,661.0
+2024-01-24,Home & Kitchen,479.0
+2024-01-25,Electronics,782.0
+2024-01-25,Groceries,1407.0
+2024-01-25,Fashion,748.0
+2024-01-25,Home & Kitchen,480.0
+2024-01-26,Electronics,817.0
+2024-01-26,Groceries,1597.0
+2024-01-26,Fashion,799.0
+2024-01-26,Home & Kitchen,424.0
+2024-01-27,Electronics,948.0
+2024-01-27,Groceries,1711.0
+2024-01-27,Fashion,882.0
+2024-01-27,Home & Kitchen,558.0
+2024-01-28,Electronics,1013.0
+2024-01-28,Groceries,1808.0
+2024-01-28,Fashion,765.0
+2024-01-28,Home & Kitchen,546.0
+2024-01-29,Electronics,731.0
+2024-01-29,Groceries,1409.0
+2024-01-29,Fashion,615.0
+2024-01-29,Home & Kitchen,598.0
+2024-01-30,Electronics,844.0
+2024-01-30,Groceries,1550.0
+2024-01-30,Fashion,625.0
+2024-01-30,Home & Kitchen,485.0
+2024-01-31,Electronics,834.0
+2024-01-31,Groceries,1413.0
+2024-01-31,Fashion,678.0
+2024-01-31,Home & Kitchen,516.0
+2024-02-01,Electronics,706.0
+2024-02-01,Groceries,1536.0
+2024-02-01,Fashion,714.0
+2024-02-01,Home & Kitchen,575.0
+2024-02-02,Electronics,771.0
+2024-02-02,Groceries,1458.0
+2024-02-02,Fashion,681.0
+2024-02-02,Home & Kitchen,515.0
+2024-02-03,Electronics,1026.0
+2024-02-03,Groceries,1845.0
+2024-02-03,Fashion,926.0
+2024-02-03,Home & Kitchen,602.0
+2024-02-04,Electronics,876.0
+2024-02-04,Groceries,1713.0
+2024-02-04,Fashion,898.0
+2024-02-04,Home & Kitchen,651.0
+2024-02-05,Electronics,807.0
+2024-02-05,Groceries,1587.0
+2024-02-05,Fashion,644.0
+2024-02-05,Home & Kitchen,497.0
+2024-02-06,Electronics,830.0
+2024-02-06,Groceries,1436.0
+2024-02-06,Fashion,770.0
+2024-02-06,Home & Kitchen,567.0
+2024-02-07,Electronics,882.0
+2024-02-07,Groceries,1507.0
+2024-02-07,Fashion,638.0
+2024-02-07,Home & Kitchen,414.0
+2024-02-08,Electronics,819.0
+2024-02-08,Groceries,1403.0
+2024-02-08,Fashion,692.0
+2024-02-08,Home & Kitchen,552.0
+2024-02-09,Electronics,840.0
+2024-02-09,Groceries,1560.0
+2024-02-09,Fashion,615.0
+2024-02-09,Home & Kitchen,569.0
+2024-02-10,Electronics,967.0
+2024-02-10,Groceries,1825.0
+2024-02-10,Fashion,933.0
+2024-02-10,Home & Kitchen,554.0
+2024-02-11,Electronics,1029.0
+2024-02-11,Groceries,1733.0
+2024-02-11,Fashion,897.0
+2024-02-11,Home & Kitchen,512.0
+2024-02-12,Electronics,840.0
+2024-02-12,Groceries,1417.0
+2024-02-12,Fashion,759.0
+2024-02-12,Home & Kitchen,495.0
+2024-02-13,Electronics,822.0
+2024-02-13,Groceries,1438.0
+2024-02-13,Fashion,645.0
+2024-02-13,Home & Kitchen,428.0
+2024-02-14,Electronics,889.0
+2024-02-14,Groceries,1461.0
+2024-02-14,Fashion,784.0
+2024-02-14,Home & Kitchen,415.0
+2024-02-15,Electronics,883.0
+2024-02-15,Groceries,1520.0
+2024-02-15,Fashion,609.0
+2024-02-15,Home & Kitchen,557.0
+2024-02-16,Electronics,852.0
+2024-02-16,Groceries,1502.0
+2024-02-16,Fashion,683.0
+2024-02-16,Home & Kitchen,532.0
+2024-02-17,Electronics,924.0
+2024-02-17,Groceries,1876.0
+2024-02-17,Fashion,742.0
+2024-02-17,Home & Kitchen,672.0
+2024-02-18,Electronics,1001.0
+2024-02-18,Groceries,1819.0
+2024-02-18,Fashion,897.0
+2024-02-18,Home & Kitchen,567.0
+2024-02-19,Electronics,845.0
+2024-02-19,Groceries,1589.0
+2024-02-19,Fashion,636.0
+2024-02-19,Home & Kitchen,552.0
+2024-02-20,Electronics,875.0
+2024-02-20,Groceries,1592.0
+2024-02-20,Fashion,780.0
+2024-02-20,Home & Kitchen,472.0
+2024-02-21,Electronics,842.0
+2024-02-21,Groceries,1448.0
+2024-02-21,Fashion,720.0
+2024-02-21,Home & Kitchen,487.0
+2024-02-22,Electronics,895.0
+2024-02-22,Groceries,1539.0
+2024-02-22,Fashion,786.0
+2024-02-22,Home & Kitchen,436.0
+2024-02-23,Electronics,760.0
+2024-02-23,Groceries,1570.0
+2024-02-23,Fashion,723.0
+2024-02-23,Home & Kitchen,597.0
+2024-02-24,Electronics,898.0
+2024-02-24,Groceries,1883.0
+2024-02-24,Fashion,802.0
+2024-02-24,Home & Kitchen,545.0
+2024-02-25,Electronics,947.0
+2024-02-25,Groceries,1710.0
+2024-02-25,Fashion,801.0
+2024-02-25,Home & Kitchen,576.0
+2024-02-26,Electronics,852.0
+2024-02-26,Groceries,1598.0
+2024-02-26,Fashion,651.0
+2024-02-26,Home & Kitchen,403.0
+2024-02-27,Electronics,758.0
+2024-02-27,Groceries,1471.0
+2024-02-27,Fashion,747.0
+2024-02-27,Home & Kitchen,492.0
+2024-02-28,Electronics,762.0
+2024-02-28,Groceries,1453.0
+2024-02-28,Fashion,716.0
+2024-02-28,Home & Kitchen,509.0
+2024-02-29,Electronics,773.0
+2024-02-29,Groceries,1506.0
+2024-02-29,Fashion,656.0
+2024-02-29,Home & Kitchen,568.0
+2024-03-01,Electronics,702.0
+2024-03-01,Groceries,1519.0
+2024-03-01,Fashion,605.0
+2024-03-01,Home & Kitchen,404.0
+2024-03-02,Electronics,864.0
+2024-03-02,Groceries,1753.0
+2024-03-02,Fashion,786.0
+2024-03-02,Home & Kitchen,676.0
+2024-03-03,Electronics,868.0
+2024-03-03,Groceries,1798.0
+2024-03-03,Fashion,759.0
+2024-03-03,Home & Kitchen,621.0
+2024-03-04,Electronics,760.0
+2024-03-04,Groceries,1522.0
+2024-03-04,Fashion,762.0
+2024-03-04,Home & Kitchen,577.0
+2024-03-05,Electronics,781.0
+2024-03-05,Groceries,1461.0
+2024-03-05,Fashion,744.0
+2024-03-05,Home & Kitchen,402.0
+2024-03-06,Electronics,859.0
+2024-03-06,Groceries,1412.0
+2024-03-06,Fashion,719.0
+2024-03-06,Home & Kitchen,524.0
+2024-03-07,Electronics,788.0
+2024-03-07,Groceries,1472.0
+2024-03-07,Fashion,667.0
+2024-03-07,Home & Kitchen,541.0
+2024-03-08,Electronics,800.0
+2024-03-08,Groceries,1497.0
+2024-03-08,Fashion,610.0
+2024-03-08,Home & Kitchen,504.0
+2024-03-09,Electronics,1043.0
+2024-03-09,Groceries,1766.0
+2024-03-09,Fashion,862.0
+2024-03-09,Home & Kitchen,528.0
+2024-03-10,Electronics,996.0
+2024-03-10,Groceries,1894.0
+2024-03-10,Fashion,892.0
+2024-03-10,Home & Kitchen,575.0
+2024-03-11,Electronics,869.0
+2024-03-11,Groceries,1408.0
+2024-03-11,Fashion,639.0
+2024-03-11,Home & Kitchen,424.0
+2024-03-12,Electronics,704.0
+2024-03-12,Groceries,1538.0
+2024-03-12,Fashion,786.0
+2024-03-12,Home & Kitchen,523.0
+2024-03-13,Electronics,737.0
+2024-03-13,Groceries,1471.0
+2024-03-13,Fashion,732.0
+2024-03-13,Home & Kitchen,575.0
+2024-03-14,Electronics,789.0
+2024-03-14,Groceries,1545.0
+2024-03-14,Fashion,797.0
+2024-03-14,Home & Kitchen,436.0
+2024-03-15,Electronics,759.0
+2024-03-15,Groceries,1575.0
+2024-03-15,Fashion,627.0
+2024-03-15,Home & Kitchen,596.0
+2024-03-16,Electronics,940.0
+2024-03-16,Groceries,1813.0
+2024-03-16,Fashion,779.0
+2024-03-16,Home & Kitchen,544.0
+2024-03-17,Electronics,921.0
+2024-03-17,Groceries,1792.0
+2024-03-17,Fashion,854.0
+2024-03-17,Home & Kitchen,685.0
+2024-03-18,Electronics,766.0
+2024-03-18,Groceries,1455.0
+2024-03-18,Fashion,639.0
+2024-03-18,Home & Kitchen,497.0
+2024-03-19,Electronics,739.0
+2024-03-19,Groceries,1490.0
+2024-03-19,Fashion,632.0
+2024-03-19,Home & Kitchen,405.0
+2024-03-20,Electronics,846.0
+2024-03-20,Groceries,1479.0
+2024-03-20,Fashion,767.0
+2024-03-20,Home & Kitchen,491.0
+2024-03-21,Electronics,796.0
+2024-03-21,Groceries,1458.0
+2024-03-21,Fashion,658.0
+2024-03-21,Home & Kitchen,447.0
+2024-03-22,Electronics,868.0
+2024-03-22,Groceries,1412.0
+2024-03-22,Fashion,706.0
+2024-03-22,Home & Kitchen,444.0
+2024-03-23,Electronics,948.0
+2024-03-23,Groceries,1880.0
+2024-03-23,Fashion,909.0
+2024-03-23,Home & Kitchen,599.0
+2024-03-24,Electronics,1050.0
+2024-03-24,Groceries,1854.0
+2024-03-24,Fashion,905.0
+2024-03-24,Home & Kitchen,687.0
+2024-03-25,Electronics,706.0
+2024-03-25,Groceries,1532.0
+2024-03-25,Fashion,644.0
+2024-03-25,Home & Kitchen,457.0
+2024-03-26,Electronics,730.0
+2024-03-26,Groceries,1422.0
+2024-03-26,Fashion,769.0
+2024-03-26,Home & Kitchen,537.0
+2024-03-27,Electronics,859.0
+2024-03-27,Groceries,1506.0
+2024-03-27,Fashion,780.0
+2024-03-27,Home & Kitchen,557.0
+2024-03-28,Electronics,738.0
+2024-03-28,Groceries,1558.0
+2024-03-28,Fashion,681.0
+2024-03-28,Home & Kitchen,499.0
+2024-03-29,Electronics,701.0
+2024-03-29,Groceries,1476.0
+2024-03-29,Fashion,611.0
+2024-03-29,Home & Kitchen,438.0
+2024-03-30,Electronics,1053.0
+2024-03-30,Groceries,1712.0
+2024-03-30,Fashion,785.0
+2024-03-30,Home & Kitchen,654.0
+2024-03-31,Electronics,972.0
+2024-03-31,Groceries,1716.0
+2024-03-31,Fashion,843.0
+2024-03-31,Home & Kitchen,597.0
+2024-04-01,Electronics,887.0
+2024-04-01,Groceries,1591.0
+2024-04-01,Fashion,687.0
+2024-04-01,Home & Kitchen,508.0
+2024-04-02,Electronics,862.0
+2024-04-02,Groceries,1469.0
+2024-04-02,Fashion,757.0
+2024-04-02,Home & Kitchen,598.0
+2024-04-03,Electronics,773.0
+2024-04-03,Groceries,1462.0
+2024-04-03,Fashion,755.0
+2024-04-03,Home & Kitchen,459.0
+2024-04-04,Electronics,778.0
+2024-04-04,Groceries,1436.0
+2024-04-04,Fashion,621.0
+2024-04-04,Home & Kitchen,595.0
+2024-04-05,Electronics,847.0
+2024-04-05,Groceries,1495.0
+2024-04-05,Fashion,667.0
+2024-04-05,Home & Kitchen,591.0
+2024-04-06,Electronics,876.0
+2024-04-06,Groceries,1711.0
+2024-04-06,Fashion,889.0
+2024-04-06,Home & Kitchen,644.0
+2024-04-07,Electronics,997.0
+2024-04-07,Groceries,1817.0
+2024-04-07,Fashion,932.0
+2024-04-07,Home & Kitchen,521.0
+2024-04-08,Electronics,819.0
+2024-04-08,Groceries,1449.0
+2024-04-08,Fashion,613.0
+2024-04-08,Home & Kitchen,591.0
+2024-04-09,Electronics,874.0
+2024-04-09,Groceries,1428.0
+2024-04-09,Fashion,763.0
+2024-04-09,Home & Kitchen,579.0
+2024-04-10,Electronics,824.0
+2024-04-10,Groceries,1406.0
+2024-04-10,Fashion,628.0
+2024-04-10,Home & Kitchen,538.0
+2024-04-11,Electronics,732.0
+2024-04-11,Groceries,1533.0
+2024-04-11,Fashion,710.0
+2024-04-11,Home & Kitchen,478.0
+2024-04-12,Electronics,859.0
+2024-04-12,Groceries,1578.0
+2024-04-12,Fashion,657.0
+2024-04-12,Home & Kitchen,425.0
+2024-04-13,Electronics,1033.0
+2024-04-13,Groceries,1728.0
+2024-04-13,Fashion,743.0
+2024-04-13,Home & Kitchen,598.0
+2024-04-14,Electronics,1000.0
+2024-04-14,Groceries,1738.0
+2024-04-14,Fashion,754.0
+2024-04-14,Home & Kitchen,618.0
+2024-04-15,Electronics,728.0
+2024-04-15,Groceries,1556.0
+2024-04-15,Fashion,674.0
+2024-04-15,Home & Kitchen,515.0
+2024-04-16,Electronics,731.0
+2024-04-16,Groceries,1529.0
+2024-04-16,Fashion,774.0
+2024-04-16,Home & Kitchen,483.0
+2024-04-17,Electronics,721.0
+2024-04-17,Groceries,1426.0
+2024-04-17,Fashion,794.0
+2024-04-17,Home & Kitchen,480.0
+2024-04-18,Electronics,825.0
+2024-04-18,Groceries,1583.0
+2024-04-18,Fashion,691.0
+2024-04-18,Home & Kitchen,420.0
+2024-04-19,Electronics,746.0
+2024-04-19,Groceries,1500.0
+2024-04-19,Fashion,786.0
+2024-04-19,Home & Kitchen,483.0
+2024-04-20,Electronics,865.0
+2024-04-20,Groceries,1846.0
+2024-04-20,Fashion,924.0
+2024-04-20,Home & Kitchen,696.0
+2024-04-21,Electronics,990.0
+2024-04-21,Groceries,1700.0
+2024-04-21,Fashion,797.0
+2024-04-21,Home & Kitchen,623.0
+2024-04-22,Electronics,865.0
+2024-04-22,Groceries,1414.0
+2024-04-22,Fashion,761.0
+2024-04-22,Home & Kitchen,588.0
+2024-04-23,Electronics,862.0
+2024-04-23,Groceries,1463.0
+2024-04-23,Fashion,624.0
+2024-04-23,Home & Kitchen,423.0
+2024-04-24,Electronics,711.0
+2024-04-24,Groceries,1417.0
+2024-04-24,Fashion,614.0
+2024-04-24,Home & Kitchen,426.0
+2024-04-25,Electronics,771.0
+2024-04-25,Groceries,1459.0
+2024-04-25,Fashion,773.0
+2024-04-25,Home & Kitchen,544.0
+2024-04-26,Electronics,792.0
+2024-04-26,Groceries,1452.0
+2024-04-26,Fashion,607.0
+2024-04-26,Home & Kitchen,478.0
+2024-04-27,Electronics,886.0
+2024-04-27,Groceries,1873.0
+2024-04-27,Fashion,789.0
+2024-04-27,Home & Kitchen,698.0
+2024-04-28,Electronics,990.0
+2024-04-28,Groceries,1792.0
+2024-04-28,Fashion,931.0
+2024-04-28,Home & Kitchen,671.0
+2024-04-29,Electronics,880.0
+2024-04-29,Groceries,1423.0
+2024-04-29,Fashion,659.0
+2024-04-29,Home & Kitchen,521.0
+2024-04-30,Electronics,830.0
+2024-04-30,Groceries,1547.0
+2024-04-30,Fashion,645.0
+2024-04-30,Home & Kitchen,414.0
+2024-05-01,Electronics,852.0
+2024-05-01,Groceries,1598.0
+2024-05-01,Fashion,616.0
+2024-05-01,Home & Kitchen,525.0
+2024-05-02,Electronics,783.0
+2024-05-02,Groceries,1408.0
+2024-05-02,Fashion,765.0
+2024-05-02,Home & Kitchen,575.0
+2024-05-03,Electronics,887.0
+2024-05-03,Groceries,1462.0
+2024-05-03,Fashion,716.0
+2024-05-03,Home & Kitchen,529.0
+2024-05-04,Electronics,947.0
+2024-05-04,Groceries,1771.0
+2024-05-04,Fashion,878.0
+2024-05-04,Home & Kitchen,563.0
+2024-05-05,Electronics,931.0
+2024-05-05,Groceries,1720.0
+2024-05-05,Fashion,757.0
+2024-05-05,Home & Kitchen,563.0
+2024-05-06,Electronics,781.0
+2024-05-06,Groceries,1509.0
+2024-05-06,Fashion,694.0
+2024-05-06,Home & Kitchen,565.0
+2024-05-07,Electronics,731.0
+2024-05-07,Groceries,1410.0
+2024-05-07,Fashion,644.0
+2024-05-07,Home & Kitchen,432.0
+2024-05-08,Electronics,801.0
+2024-05-08,Groceries,1568.0
+2024-05-08,Fashion,735.0
+2024-05-08,Home & Kitchen,410.0
+2024-05-09,Electronics,878.0
+2024-05-09,Groceries,1487.0
+2024-05-09,Fashion,640.0
+2024-05-09,Home & Kitchen,544.0
+2024-05-10,Electronics,775.0
+2024-05-10,Groceries,1520.0
+2024-05-10,Fashion,645.0
+2024-05-10,Home & Kitchen,559.0
+2024-05-11,Electronics,939.0
+2024-05-11,Groceries,1753.0
+2024-05-11,Fashion,825.0
+2024-05-11,Home & Kitchen,591.0
+2024-05-12,Electronics,1007.0
+2024-05-12,Groceries,1860.0
+2024-05-12,Fashion,907.0
+2024-05-12,Home & Kitchen,659.0
+2024-05-13,Electronics,796.0
+2024-05-13,Groceries,1401.0
+2024-05-13,Fashion,632.0
+2024-05-13,Home & Kitchen,557.0
+2024-05-14,Electronics,860.0
+2024-05-14,Groceries,1476.0
+2024-05-14,Fashion,715.0
+2024-05-14,Home & Kitchen,553.0
+2024-05-15,Electronics,849.0
+2024-05-15,Groceries,1502.0
+2024-05-15,Fashion,793.0
+2024-05-15,Home & Kitchen,565.0
+2024-05-16,Electronics,802.0
+2024-05-16,Groceries,1489.0
+2024-05-16,Fashion,773.0
+2024-05-16,Home & Kitchen,521.0
+2024-05-17,Electronics,842.0
+2024-05-17,Groceries,1505.0
+2024-05-17,Fashion,718.0
+2024-05-17,Home & Kitchen,571.0
+2024-05-18,Electronics,908.0
+2024-05-18,Groceries,1803.0
+2024-05-18,Fashion,800.0
+2024-05-18,Home & Kitchen,694.0
+2024-05-19,Electronics,982.0
+2024-05-19,Groceries,1833.0
+2024-05-19,Fashion,748.0
+2024-05-19,Home & Kitchen,505.0
+2024-05-20,Electronics,772.0
+2024-05-20,Groceries,1502.0
+2024-05-20,Fashion,759.0
+2024-05-20,Home & Kitchen,440.0
+2024-05-21,Electronics,813.0
+2024-05-21,Groceries,1407.0
+2024-05-21,Fashion,671.0
+2024-05-21,Home & Kitchen,577.0
+2024-05-22,Electronics,791.0
+2024-05-22,Groceries,1461.0
+2024-05-22,Fashion,683.0
+2024-05-22,Home & Kitchen,461.0
+2024-05-23,Electronics,810.0
+2024-05-23,Groceries,1526.0
+2024-05-23,Fashion,606.0
+2024-05-23,Home & Kitchen,483.0
+2024-05-24,Electronics,831.0
+2024-05-24,Groceries,1533.0
+2024-05-24,Fashion,657.0
+2024-05-24,Home & Kitchen,421.0
+2024-05-25,Electronics,1013.0
+2024-05-25,Groceries,1826.0
+2024-05-25,Fashion,742.0
+2024-05-25,Home & Kitchen,626.0
+2024-05-26,Electronics,900.0
+2024-05-26,Groceries,1887.0
+2024-05-26,Fashion,845.0
+2024-05-26,Home & Kitchen,513.0
+2024-05-27,Electronics,711.0
+2024-05-27,Groceries,1486.0
+2024-05-27,Fashion,611.0
+2024-05-27,Home & Kitchen,540.0
+2024-05-28,Electronics,724.0
+2024-05-28,Groceries,1444.0
+2024-05-28,Fashion,721.0
+2024-05-28,Home & Kitchen,546.0
+2024-05-29,Electronics,754.0
+2024-05-29,Groceries,1499.0
+2024-05-29,Fashion,772.0
+2024-05-29,Home & Kitchen,535.0
+2024-05-30,Electronics,818.0
+2024-05-30,Groceries,1452.0
+2024-05-30,Fashion,782.0
+2024-05-30,Home & Kitchen,431.0
+2024-05-31,Electronics,750.0
+2024-05-31,Groceries,1443.0
+2024-05-31,Fashion,681.0
+2024-05-31,Home & Kitchen,597.0
+2024-06-01,Electronics,1005.0
+2024-06-01,Groceries,1849.0
+2024-06-01,Fashion,776.0
+2024-06-01,Home & Kitchen,595.0
+2024-06-02,Electronics,915.0
+2024-06-02,Groceries,1804.0
+2024-06-02,Fashion,798.0
+2024-06-02,Home & Kitchen,630.0
+2024-06-03,Electronics,855.0
+2024-06-03,Groceries,1434.0
+2024-06-03,Fashion,788.0
+2024-06-03,Home & Kitchen,492.0
+2024-06-04,Electronics,881.0
+2024-06-04,Groceries,1590.0
+2024-06-04,Fashion,696.0
+2024-06-04,Home & Kitchen,534.0
+2024-06-05,Electronics,775.0
+2024-06-05,Groceries,1448.0
+2024-06-05,Fashion,693.0
+2024-06-05,Home & Kitchen,558.0
+2024-06-06,Electronics,885.0
+2024-06-06,Groceries,1588.0
+2024-06-06,Fashion,623.0
+2024-06-06,Home & Kitchen,547.0
+2024-06-07,Electronics,736.0
+2024-06-07,Groceries,1403.0
+2024-06-07,Fashion,707.0
+2024-06-07,Home & Kitchen,525.0
+2024-06-08,Electronics,879.0
+2024-06-08,Groceries,1887.0
+2024-06-08,Fashion,891.0
+2024-06-08,Home & Kitchen,549.0
+2024-06-09,Electronics,1036.0
+2024-06-09,Groceries,1878.0
+2024-06-09,Fashion,835.0
+2024-06-09,Home & Kitchen,604.0
+2024-06-10,Electronics,863.0
+2024-06-10,Groceries,1516.0
+2024-06-10,Fashion,697.0
+2024-06-10,Home & Kitchen,465.0
+2024-06-11,Electronics,778.0
+2024-06-11,Groceries,1561.0
+2024-06-11,Fashion,763.0
+2024-06-11,Home & Kitchen,405.0
+2024-06-12,Electronics,738.0
+2024-06-12,Groceries,1569.0
+2024-06-12,Fashion,714.0
+2024-06-12,Home & Kitchen,585.0
+2024-06-13,Electronics,824.0
+2024-06-13,Groceries,1411.0
+2024-06-13,Fashion,730.0
+2024-06-13,Home & Kitchen,417.0
+2024-06-14,Electronics,739.0
+2024-06-14,Groceries,1420.0
+2024-06-14,Fashion,742.0
+2024-06-14,Home & Kitchen,498.0
+2024-06-15,Electronics,885.0
+2024-06-15,Groceries,1707.0
+2024-06-15,Fashion,839.0
+2024-06-15,Home & Kitchen,586.0
+2024-06-16,Electronics,901.0
+2024-06-16,Groceries,1871.0
+2024-06-16,Fashion,753.0
+2024-06-16,Home & Kitchen,577.0
+2024-06-17,Electronics,701.0
+2024-06-17,Groceries,1518.0
+2024-06-17,Fashion,636.0
+2024-06-17,Home & Kitchen,468.0
+2024-06-18,Electronics,865.0
+2024-06-18,Groceries,1440.0
+2024-06-18,Fashion,661.0
+2024-06-18,Home & Kitchen,459.0
+2024-06-19,Electronics,824.0
+2024-06-19,Groceries,1510.0
+2024-06-19,Fashion,613.0
+2024-06-19,Home & Kitchen,483.0
+2024-06-20,Electronics,829.0
+2024-06-20,Groceries,1469.0
+2024-06-20,Fashion,744.0
+2024-06-20,Home & Kitchen,522.0
+2024-06-21,Electronics,788.0
+2024-06-21,Groceries,1427.0
+2024-06-21,Fashion,665.0
+2024-06-21,Home & Kitchen,562.0
+2024-06-22,Electronics,864.0
+2024-06-22,Groceries,1892.0
+2024-06-22,Fashion,907.0
+2024-06-22,Home & Kitchen,683.0
+2024-06-23,Electronics,1023.0
+2024-06-23,Groceries,1744.0
+2024-06-23,Fashion,890.0
+2024-06-23,Home & Kitchen,546.0
+2024-06-24,Electronics,730.0
+2024-06-24,Groceries,1538.0
+2024-06-24,Fashion,609.0
+2024-06-24,Home & Kitchen,594.0
+2024-06-25,Electronics,817.0
+2024-06-25,Groceries,1413.0
+2024-06-25,Fashion,679.0
+2024-06-25,Home & Kitchen,492.0
+2024-06-26,Electronics,709.0
+2024-06-26,Groceries,1475.0
+2024-06-26,Fashion,693.0
+2024-06-26,Home & Kitchen,504.0
+2024-06-27,Electronics,700.0
+2024-06-27,Groceries,1532.0
+2024-06-27,Fashion,619.0
+2024-06-27,Home & Kitchen,407.0
+2024-06-28,Electronics,870.0
+2024-06-28,Groceries,1400.0
+2024-06-28,Fashion,656.0
+2024-06-28,Home & Kitchen,463.0
+2024-06-29,Electronics,977.0
+2024-06-29,Groceries,1727.0
+2024-06-29,Fashion,860.0
+2024-06-29,Home & Kitchen,606.0
+2024-06-30,Electronics,1024.0
+2024-06-30,Groceries,1874.0
+2024-06-30,Fashion,904.0
+2024-06-30,Home & Kitchen,548.0
+2024-07-01,Electronics,819.0
+2024-07-01,Groceries,1443.0
+2024-07-01,Fashion,655.0
+2024-07-01,Home & Kitchen,555.0
+2024-07-02,Electronics,810.0
+2024-07-02,Groceries,1533.0
+2024-07-02,Fashion,707.0
+2024-07-02,Home & Kitchen,588.0
+2024-07-03,Electronics,847.0
+2024-07-03,Groceries,1513.0
+2024-07-03,Fashion,677.0
+2024-07-03,Home & Kitchen,529.0
+2024-07-04,Electronics,736.0
+2024-07-04,Groceries,1419.0
+2024-07-04,Fashion,625.0
+2024-07-04,Home & Kitchen,428.0
+2024-07-05,Electronics,700.0
+2024-07-05,Groceries,1518.0
+2024-07-05,Fashion,634.0
+2024-07-05,Home & Kitchen,597.0
+2024-07-06,Electronics,918.0
+2024-07-06,Groceries,1768.0
+2024-07-06,Fashion,900.0
+2024-07-06,Home & Kitchen,678.0
+2024-07-07,Electronics,871.0
+2024-07-07,Groceries,1719.0
+2024-07-07,Fashion,920.0
+2024-07-07,Home & Kitchen,542.0
+2024-07-08,Electronics,825.0
+2024-07-08,Groceries,1449.0
+2024-07-08,Fashion,628.0
+2024-07-08,Home & Kitchen,584.0
+2024-07-09,Electronics,738.0
+2024-07-09,Groceries,1583.0
+2024-07-09,Fashion,770.0
+2024-07-09,Home & Kitchen,577.0
+2024-07-10,Electronics,850.0
+2024-07-10,Groceries,1571.0
+2024-07-10,Fashion,637.0
+2024-07-10,Home & Kitchen,483.0
+2024-07-11,Electronics,850.0
+2024-07-11,Groceries,1527.0
+2024-07-11,Fashion,725.0
+2024-07-11,Home & Kitchen,444.0
+2024-07-12,Electronics,751.0
+2024-07-12,Groceries,1479.0
+2024-07-12,Fashion,777.0
+2024-07-12,Home & Kitchen,523.0
+2024-07-13,Electronics,978.0
+2024-07-13,Groceries,1707.0
+2024-07-13,Fashion,824.0
+2024-07-13,Home & Kitchen,628.0
+2024-07-14,Electronics,867.0
+2024-07-14,Groceries,1856.0
+2024-07-14,Fashion,835.0
+2024-07-14,Home & Kitchen,601.0
+2024-07-15,Electronics,704.0
+2024-07-15,Groceries,1485.0
+2024-07-15,Fashion,774.0
+2024-07-15,Home & Kitchen,433.0
+2024-07-16,Electronics,892.0
+2024-07-16,Groceries,1454.0
+2024-07-16,Fashion,718.0
+2024-07-16,Home & Kitchen,570.0
+2024-07-17,Electronics,857.0
+2024-07-17,Groceries,1513.0
+2024-07-17,Fashion,744.0
+2024-07-17,Home & Kitchen,425.0
+2024-07-18,Electronics,835.0
+2024-07-18,Groceries,1446.0
+2024-07-18,Fashion,712.0
+2024-07-18,Home & Kitchen,475.0
+2024-07-19,Electronics,771.0
+2024-07-19,Groceries,1488.0
+2024-07-19,Fashion,645.0
+2024-07-19,Home & Kitchen,595.0
+2024-07-20,Electronics,892.0
+2024-07-20,Groceries,1700.0
+2024-07-20,Fashion,886.0
+2024-07-20,Home & Kitchen,530.0
+2024-07-21,Electronics,1001.0
+2024-07-21,Groceries,1752.0
+2024-07-21,Fashion,787.0
+2024-07-21,Home & Kitchen,568.0
+2024-07-22,Electronics,804.0
+2024-07-22,Groceries,1489.0
+2024-07-22,Fashion,789.0
+2024-07-22,Home & Kitchen,593.0
+2024-07-23,Electronics,891.0
+2024-07-23,Groceries,1597.0
+2024-07-23,Fashion,662.0
+2024-07-23,Home & Kitchen,472.0
+2024-07-24,Electronics,860.0
+2024-07-24,Groceries,1568.0
+2024-07-24,Fashion,688.0
+2024-07-24,Home & Kitchen,575.0
+2024-07-25,Electronics,712.0
+2024-07-25,Groceries,1472.0
+2024-07-25,Fashion,676.0
+2024-07-25,Home & Kitchen,558.0
+2024-07-26,Electronics,767.0
+2024-07-26,Groceries,1497.0
+2024-07-26,Fashion,724.0
+2024-07-26,Home & Kitchen,501.0
+2024-07-27,Electronics,991.0
+2024-07-27,Groceries,1801.0
+2024-07-27,Fashion,758.0
+2024-07-27,Home & Kitchen,697.0
+2024-07-28,Electronics,941.0
+2024-07-28,Groceries,1840.0
+2024-07-28,Fashion,762.0
+2024-07-28,Home & Kitchen,582.0
+2024-07-29,Electronics,808.0
+2024-07-29,Groceries,1474.0
+2024-07-29,Fashion,728.0
+2024-07-29,Home & Kitchen,487.0
+2024-07-30,Electronics,753.0
+2024-07-30,Groceries,1598.0
+2024-07-30,Fashion,688.0
+2024-07-30,Home & Kitchen,542.0
+2024-07-31,Electronics,764.0
+2024-07-31,Groceries,1475.0
+2024-07-31,Fashion,798.0
+2024-07-31,Home & Kitchen,542.0
+2024-08-01,Electronics,848.0
+2024-08-01,Groceries,1546.0
+2024-08-01,Fashion,659.0
+2024-08-01,Home & Kitchen,492.0
+2024-08-02,Electronics,860.0
+2024-08-02,Groceries,1448.0
+2024-08-02,Fashion,634.0
+2024-08-02,Home & Kitchen,571.0
+2024-08-03,Electronics,961.0
+2024-08-03,Groceries,1710.0
+2024-08-03,Fashion,838.0
+2024-08-03,Home & Kitchen,699.0
+2024-08-04,Electronics,969.0
+2024-08-04,Groceries,1773.0
+2024-08-04,Fashion,933.0
+2024-08-04,Home & Kitchen,673.0
+2024-08-05,Electronics,708.0
+2024-08-05,Groceries,1402.0
+2024-08-05,Fashion,684.0
+2024-08-05,Home & Kitchen,425.0
+2024-08-06,Electronics,771.0
+2024-08-06,Groceries,1447.0
+2024-08-06,Fashion,793.0
+2024-08-06,Home & Kitchen,597.0
+2024-08-07,Electronics,855.0
+2024-08-07,Groceries,1516.0
+2024-08-07,Fashion,753.0
+2024-08-07,Home & Kitchen,552.0
+2024-08-08,Electronics,711.0
+2024-08-08,Groceries,1532.0
+2024-08-08,Fashion,647.0
+2024-08-08,Home & Kitchen,436.0
+2024-08-09,Electronics,743.0
+2024-08-09,Groceries,1414.0
+2024-08-09,Fashion,642.0
+2024-08-09,Home & Kitchen,575.0
+2024-08-10,Electronics,946.0
+2024-08-10,Groceries,1769.0
+2024-08-10,Fashion,785.0
+2024-08-10,Home & Kitchen,607.0
+2024-08-11,Electronics,982.0
+2024-08-11,Groceries,1870.0
+2024-08-11,Fashion,760.0
+2024-08-11,Home & Kitchen,650.0
+2024-08-12,Electronics,806.0
+2024-08-12,Groceries,1479.0
+2024-08-12,Fashion,646.0
+2024-08-12,Home & Kitchen,516.0
+2024-08-13,Electronics,823.0
+2024-08-13,Groceries,1542.0
+2024-08-13,Fashion,624.0
+2024-08-13,Home & Kitchen,435.0
+2024-08-14,Electronics,750.0
+2024-08-14,Groceries,1414.0
+2024-08-14,Fashion,667.0
+2024-08-14,Home & Kitchen,420.0
+2024-08-15,Electronics,840.0
+2024-08-15,Groceries,1418.0
+2024-08-15,Fashion,633.0
+2024-08-15,Home & Kitchen,477.0
+2024-08-16,Electronics,824.0
+2024-08-16,Groceries,1595.0
+2024-08-16,Fashion,716.0
+2024-08-16,Home & Kitchen,451.0
+2024-08-17,Electronics,886.0
+2024-08-17,Groceries,1856.0
+2024-08-17,Fashion,895.0
+2024-08-17,Home & Kitchen,534.0
+2024-08-18,Electronics,995.0
+2024-08-18,Groceries,1843.0
+2024-08-18,Fashion,845.0
+2024-08-18,Home & Kitchen,663.0
+2024-08-19,Electronics,857.0
+2024-08-19,Groceries,1545.0
+2024-08-19,Fashion,601.0
+2024-08-19,Home & Kitchen,576.0
+2024-08-20,Electronics,776.0
+2024-08-20,Groceries,1531.0
+2024-08-20,Fashion,689.0
+2024-08-20,Home & Kitchen,488.0
+2024-08-21,Electronics,793.0
+2024-08-21,Groceries,1406.0
+2024-08-21,Fashion,694.0
+2024-08-21,Home & Kitchen,507.0
+2024-08-22,Electronics,773.0
+2024-08-22,Groceries,1438.0
+2024-08-22,Fashion,740.0
+2024-08-22,Home & Kitchen,558.0
+2024-08-23,Electronics,770.0
+2024-08-23,Groceries,1590.0
+2024-08-23,Fashion,655.0
+2024-08-23,Home & Kitchen,569.0
+2024-08-24,Electronics,1048.0
+2024-08-24,Groceries,1741.0
+2024-08-24,Fashion,923.0
+2024-08-24,Home & Kitchen,535.0
+2024-08-25,Electronics,943.0
+2024-08-25,Groceries,1895.0
+2024-08-25,Fashion,857.0
+2024-08-25,Home & Kitchen,506.0
+2024-08-26,Electronics,753.0
+2024-08-26,Groceries,1528.0
+2024-08-26,Fashion,771.0
+2024-08-26,Home & Kitchen,519.0
+2024-08-27,Electronics,872.0
+2024-08-27,Groceries,1505.0
+2024-08-27,Fashion,646.0
+2024-08-27,Home & Kitchen,522.0
+2024-08-28,Electronics,840.0
+2024-08-28,Groceries,1518.0
+2024-08-28,Fashion,749.0
+2024-08-28,Home & Kitchen,517.0
+2024-08-29,Electronics,720.0
+2024-08-29,Groceries,1536.0
+2024-08-29,Fashion,625.0
+2024-08-29,Home & Kitchen,408.0
+2024-08-30,Electronics,714.0
+2024-08-30,Groceries,1409.0
+2024-08-30,Fashion,721.0
+2024-08-30,Home & Kitchen,520.0
+2024-08-31,Electronics,984.0
+2024-08-31,Groceries,1869.0
+2024-08-31,Fashion,811.0
+2024-08-31,Home & Kitchen,651.0
+2024-09-01,Electronics,908.0
+2024-09-01,Groceries,1853.0
+2024-09-01,Fashion,830.0
+2024-09-01,Home & Kitchen,536.0
+2024-09-02,Electronics,767.0
+2024-09-02,Groceries,1449.0
+2024-09-02,Fashion,751.0
+2024-09-02,Home & Kitchen,418.0
+2024-09-03,Electronics,799.0
+2024-09-03,Groceries,1459.0
+2024-09-03,Fashion,766.0
+2024-09-03,Home & Kitchen,488.0
+2024-09-04,Electronics,845.0
+2024-09-04,Groceries,1546.0
+2024-09-04,Fashion,763.0
+2024-09-04,Home & Kitchen,582.0
+2024-09-05,Electronics,768.0
+2024-09-05,Groceries,1574.0
+2024-09-05,Fashion,648.0
+2024-09-05,Home & Kitchen,507.0
+2024-09-06,Electronics,860.0
+2024-09-06,Groceries,1518.0
+2024-09-06,Fashion,748.0
+2024-09-06,Home & Kitchen,549.0
+2024-09-07,Electronics,1035.0
+2024-09-07,Groceries,1736.0
+2024-09-07,Fashion,882.0
+2024-09-07,Home & Kitchen,662.0
+2024-09-08,Electronics,1058.0
+2024-09-08,Groceries,1859.0
+2024-09-08,Fashion,750.0
+2024-09-08,Home & Kitchen,637.0
+2024-09-09,Electronics,777.0
+2024-09-09,Groceries,1476.0
+2024-09-09,Fashion,784.0
+2024-09-09,Home & Kitchen,552.0
+2024-09-10,Electronics,701.0
+2024-09-10,Groceries,1463.0
+2024-09-10,Fashion,634.0
+2024-09-10,Home & Kitchen,406.0
+2024-09-11,Electronics,784.0
+2024-09-11,Groceries,1545.0
+2024-09-11,Fashion,666.0
+2024-09-11,Home & Kitchen,441.0
+2024-09-12,Electronics,817.0
+2024-09-12,Groceries,1524.0
+2024-09-12,Fashion,766.0
+2024-09-12,Home & Kitchen,568.0
+2024-09-13,Electronics,723.0
+2024-09-13,Groceries,1587.0
+2024-09-13,Fashion,645.0
+2024-09-13,Home & Kitchen,418.0
+2024-09-14,Electronics,927.0
+2024-09-14,Groceries,1801.0
+2024-09-14,Fashion,781.0
+2024-09-14,Home & Kitchen,531.0
+2024-09-15,Electronics,1026.0
+2024-09-15,Groceries,1808.0
+2024-09-15,Fashion,775.0
+2024-09-15,Home & Kitchen,596.0
+2024-09-16,Electronics,863.0
+2024-09-16,Groceries,1530.0
+2024-09-16,Fashion,672.0
+2024-09-16,Home & Kitchen,535.0
+2024-09-17,Electronics,796.0
+2024-09-17,Groceries,1522.0
+2024-09-17,Fashion,669.0
+2024-09-17,Home & Kitchen,568.0
+2024-09-18,Electronics,895.0
+2024-09-18,Groceries,1412.0
+2024-09-18,Fashion,648.0
+2024-09-18,Home & Kitchen,459.0
+2024-09-19,Electronics,829.0
+2024-09-19,Groceries,1587.0
+2024-09-19,Fashion,604.0
+2024-09-19,Home & Kitchen,571.0
+2024-09-20,Electronics,726.0
+2024-09-20,Groceries,1559.0
+2024-09-20,Fashion,748.0
+2024-09-20,Home & Kitchen,407.0
+2024-09-21,Electronics,1059.0
+2024-09-21,Groceries,1749.0
+2024-09-21,Fashion,806.0
+2024-09-21,Home & Kitchen,543.0
+2024-09-22,Electronics,984.0
+2024-09-22,Groceries,1757.0
+2024-09-22,Fashion,742.0
+2024-09-22,Home & Kitchen,585.0
+2024-09-23,Electronics,769.0
+2024-09-23,Groceries,1529.0
+2024-09-23,Fashion,771.0
+2024-09-23,Home & Kitchen,401.0
+2024-09-24,Electronics,801.0
+2024-09-24,Groceries,1434.0
+2024-09-24,Fashion,697.0
+2024-09-24,Home & Kitchen,429.0
+2024-09-25,Electronics,815.0
+2024-09-25,Groceries,1407.0
+2024-09-25,Fashion,749.0
+2024-09-25,Home & Kitchen,443.0
+2024-09-26,Electronics,885.0
+2024-09-26,Groceries,1435.0
+2024-09-26,Fashion,796.0
+2024-09-26,Home & Kitchen,476.0
+2024-09-27,Electronics,730.0
+2024-09-27,Groceries,1446.0
+2024-09-27,Fashion,654.0
+2024-09-27,Home & Kitchen,505.0
+2024-09-28,Electronics,1049.0
+2024-09-28,Groceries,1857.0
+2024-09-28,Fashion,860.0
+2024-09-28,Home & Kitchen,554.0
+2024-09-29,Electronics,1003.0
+2024-09-29,Groceries,1711.0
+2024-09-29,Fashion,884.0
+2024-09-29,Home & Kitchen,643.0
+2024-09-30,Electronics,839.0
+2024-09-30,Groceries,1535.0
+2024-09-30,Fashion,602.0
+2024-09-30,Home & Kitchen,543.0
+2024-10-01,Electronics,729.0
+2024-10-01,Groceries,1422.0
+2024-10-01,Fashion,691.0
+2024-10-01,Home & Kitchen,514.0
+2024-10-02,Electronics,803.0
+2024-10-02,Groceries,1517.0
+2024-10-02,Fashion,604.0
+2024-10-02,Home & Kitchen,503.0
+2024-10-03,Electronics,807.0
+2024-10-03,Groceries,1464.0
+2024-10-03,Fashion,720.0
+2024-10-03,Home & Kitchen,429.0
+2024-10-04,Electronics,848.0
+2024-10-04,Groceries,1483.0
+2024-10-04,Fashion,797.0
+2024-10-04,Home & Kitchen,549.0
+2024-10-05,Electronics,1059.0
+2024-10-05,Groceries,1731.0
+2024-10-05,Fashion,900.0
+2024-10-05,Home & Kitchen,515.0
+2024-10-06,Electronics,897.0
+2024-10-06,Groceries,1841.0
+2024-10-06,Fashion,775.0
+2024-10-06,Home & Kitchen,650.0
+2024-10-07,Electronics,813.0
+2024-10-07,Groceries,1465.0
+2024-10-07,Fashion,704.0
+2024-10-07,Home & Kitchen,484.0
+2024-10-08,Electronics,701.0
+2024-10-08,Groceries,1592.0
+2024-10-08,Fashion,674.0
+2024-10-08,Home & Kitchen,466.0
+2024-10-09,Electronics,879.0
+2024-10-09,Groceries,1589.0
+2024-10-09,Fashion,750.0
+2024-10-09,Home & Kitchen,553.0
+2024-10-10,Electronics,895.0
+2024-10-10,Groceries,1454.0
+2024-10-10,Fashion,605.0
+2024-10-10,Home & Kitchen,562.0
+2024-10-11,Electronics,849.0
+2024-10-11,Groceries,1570.0
+2024-10-11,Fashion,742.0
+2024-10-11,Home & Kitchen,485.0
+2024-10-12,Electronics,919.0
+2024-10-12,Groceries,1800.0
+2024-10-12,Fashion,751.0
+2024-10-12,Home & Kitchen,548.0
+2024-10-13,Electronics,901.0
+2024-10-13,Groceries,1865.0
+2024-10-13,Fashion,821.0
+2024-10-13,Home & Kitchen,672.0
+2024-10-14,Electronics,734.0
+2024-10-14,Groceries,1557.0
+2024-10-14,Fashion,757.0
+2024-10-14,Home & Kitchen,533.0
+2024-10-15,Electronics,766.0
+2024-10-15,Groceries,1479.0
+2024-10-15,Fashion,606.0
+2024-10-15,Home & Kitchen,579.0
+2024-10-16,Electronics,713.0
+2024-10-16,Groceries,1472.0
+2024-10-16,Fashion,742.0
+2024-10-16,Home & Kitchen,548.0
+2024-10-17,Electronics,862.0
+2024-10-17,Groceries,1465.0
+2024-10-17,Fashion,690.0
+2024-10-17,Home & Kitchen,529.0
+2024-10-18,Electronics,862.0
+2024-10-18,Groceries,1419.0
+2024-10-18,Fashion,609.0
+2024-10-18,Home & Kitchen,424.0
+2024-10-19,Electronics,1053.0
+2024-10-19,Groceries,1724.0
+2024-10-19,Fashion,793.0
+2024-10-19,Home & Kitchen,532.0
+2024-10-20,Electronics,1023.0
+2024-10-20,Groceries,1794.0
+2024-10-20,Fashion,753.0
+2024-10-20,Home & Kitchen,564.0
+2024-10-21,Electronics,809.0
+2024-10-21,Groceries,1479.0
+2024-10-21,Fashion,653.0
+2024-10-21,Home & Kitchen,524.0
+2024-10-22,Electronics,879.0
+2024-10-22,Groceries,1530.0
+2024-10-22,Fashion,768.0
+2024-10-22,Home & Kitchen,533.0
+2024-10-23,Electronics,724.0
+2024-10-23,Groceries,1540.0
+2024-10-23,Fashion,716.0
+2024-10-23,Home & Kitchen,535.0
+2024-10-24,Electronics,848.0
+2024-10-24,Groceries,1595.0
+2024-10-24,Fashion,624.0
+2024-10-24,Home & Kitchen,478.0
+2024-10-25,Electronics,767.0
+2024-10-25,Groceries,1572.0
+2024-10-25,Fashion,787.0
+2024-10-25,Home & Kitchen,411.0
+2024-10-26,Electronics,891.0
+2024-10-26,Groceries,1827.0
+2024-10-26,Fashion,835.0
+2024-10-26,Home & Kitchen,591.0
+2024-10-27,Electronics,1000.0
+2024-10-27,Groceries,1730.0
+2024-10-27,Fashion,817.0
+2024-10-27,Home & Kitchen,519.0
+2024-10-28,Electronics,845.0
+2024-10-28,Groceries,1459.0
+2024-10-28,Fashion,790.0
+2024-10-28,Home & Kitchen,533.0
+2024-10-29,Electronics,859.0
+2024-10-29,Groceries,1492.0
+2024-10-29,Fashion,642.0
+2024-10-29,Home & Kitchen,529.0
+2024-10-30,Electronics,759.0
+2024-10-30,Groceries,1550.0
+2024-10-30,Fashion,630.0
+2024-10-30,Home & Kitchen,404.0
+2024-10-31,Electronics,861.0
+2024-10-31,Groceries,1409.0
+2024-10-31,Fashion,688.0
+2024-10-31,Home & Kitchen,529.0
+2024-11-01,Electronics,825.0
+2024-11-01,Groceries,1410.0
+2024-11-01,Fashion,777.0
+2024-11-01,Home & Kitchen,558.0
+2024-11-02,Electronics,915.0
+2024-11-02,Groceries,1782.0
+2024-11-02,Fashion,876.0
+2024-11-02,Home & Kitchen,598.0
+2024-11-03,Electronics,1008.0
+2024-11-03,Groceries,1772.0
+2024-11-03,Fashion,895.0
+2024-11-03,Home & Kitchen,689.0
+2024-11-04,Electronics,814.0
+2024-11-04,Groceries,1406.0
+2024-11-04,Fashion,679.0
+2024-11-04,Home & Kitchen,543.0
+2024-11-05,Electronics,796.0
+2024-11-05,Groceries,1403.0
+2024-11-05,Fashion,603.0
+2024-11-05,Home & Kitchen,502.0
+2024-11-06,Electronics,739.0
+2024-11-06,Groceries,1416.0
+2024-11-06,Fashion,700.0
+2024-11-06,Home & Kitchen,502.0
+2024-11-07,Electronics,823.0
+2024-11-07,Groceries,1451.0
+2024-11-07,Fashion,651.0
+2024-11-07,Home & Kitchen,563.0
+2024-11-08,Electronics,823.0
+2024-11-08,Groceries,1565.0
+2024-11-08,Fashion,777.0
+2024-11-08,Home & Kitchen,462.0
+2024-11-09,Electronics,975.0
+2024-11-09,Groceries,1890.0
+2024-11-09,Fashion,801.0
+2024-11-09,Home & Kitchen,506.0
+2024-11-10,Electronics,1014.0
+2024-11-10,Groceries,1791.0
+2024-11-10,Fashion,753.0
+2024-11-10,Home & Kitchen,698.0
+2024-11-11,Electronics,785.0
+2024-11-11,Groceries,1532.0
+2024-11-11,Fashion,782.0
+2024-11-11,Home & Kitchen,529.0
+2024-11-12,Electronics,761.0
+2024-11-12,Groceries,1548.0
+2024-11-12,Fashion,678.0
+2024-11-12,Home & Kitchen,548.0
+2024-11-13,Electronics,837.0
+2024-11-13,Groceries,1457.0
+2024-11-13,Fashion,719.0
+2024-11-13,Home & Kitchen,566.0
+2024-11-14,Electronics,832.0
+2024-11-14,Groceries,1464.0
+2024-11-14,Fashion,612.0
+2024-11-14,Home & Kitchen,580.0
+2024-11-15,Electronics,781.0
+2024-11-15,Groceries,1572.0
+2024-11-15,Fashion,759.0
+2024-11-15,Home & Kitchen,563.0
+2024-11-16,Electronics,1047.0
+2024-11-16,Groceries,1838.0
+2024-11-16,Fashion,930.0
+2024-11-16,Home & Kitchen,648.0
+2024-11-17,Electronics,911.0
+2024-11-17,Groceries,1882.0
+2024-11-17,Fashion,856.0
+2024-11-17,Home & Kitchen,525.0
+2024-11-18,Electronics,895.0
+2024-11-18,Groceries,1433.0
+2024-11-18,Fashion,651.0
+2024-11-18,Home & Kitchen,511.0
+2024-11-19,Electronics,781.0
+2024-11-19,Groceries,1579.0
+2024-11-19,Fashion,756.0
+2024-11-19,Home & Kitchen,565.0
+2024-11-20,Electronics,741.0
+2024-11-20,Groceries,1420.0
+2024-11-20,Fashion,641.0
+2024-11-20,Home & Kitchen,540.0
+2024-11-21,Electronics,812.0
+2024-11-21,Groceries,1504.0
+2024-11-21,Fashion,791.0
+2024-11-21,Home & Kitchen,416.0
+2024-11-22,Electronics,819.0
+2024-11-22,Groceries,1536.0
+2024-11-22,Fashion,768.0
+2024-11-22,Home & Kitchen,528.0
+2024-11-23,Electronics,989.0
+2024-11-23,Groceries,1759.0
+2024-11-23,Fashion,787.0
+2024-11-23,Home & Kitchen,528.0
+2024-11-24,Electronics,956.0
+2024-11-24,Groceries,1709.0
+2024-11-24,Fashion,797.0
+2024-11-24,Home & Kitchen,687.0
+2024-11-25,Electronics,720.0
+2024-11-25,Groceries,1427.0
+2024-11-25,Fashion,633.0
+2024-11-25,Home & Kitchen,407.0
+2024-11-26,Electronics,886.0
+2024-11-26,Groceries,1599.0
+2024-11-26,Fashion,776.0
+2024-11-26,Home & Kitchen,478.0
+2024-11-27,Electronics,844.0
+2024-11-27,Groceries,1587.0
+2024-11-27,Fashion,686.0
+2024-11-27,Home & Kitchen,487.0
+2024-11-28,Electronics,872.0
+2024-11-28,Groceries,1468.0
+2024-11-28,Fashion,759.0
+2024-11-28,Home & Kitchen,571.0
+2024-11-29,Electronics,892.0
+2024-11-29,Groceries,1486.0
+2024-11-29,Fashion,700.0
+2024-11-29,Home & Kitchen,407.0
+2024-11-30,Electronics,936.0
+2024-11-30,Groceries,1899.0
+2024-11-30,Fashion,826.0
+2024-11-30,Home & Kitchen,542.0
+2024-12-01,Electronics,988.0
+2024-12-01,Groceries,1808.0
+2024-12-01,Fashion,918.0
+2024-12-01,Home & Kitchen,651.0
+2024-12-02,Electronics,851.0
+2024-12-02,Groceries,1416.0
+2024-12-02,Fashion,732.0
+2024-12-02,Home & Kitchen,547.0
+2024-12-03,Electronics,720.0
+2024-12-03,Groceries,1457.0
+2024-12-03,Fashion,758.0
+2024-12-03,Home & Kitchen,509.0
+2024-12-04,Electronics,838.0
+2024-12-04,Groceries,1579.0
+2024-12-04,Fashion,742.0
+2024-12-04,Home & Kitchen,534.0
+2024-12-05,Electronics,727.0
+2024-12-05,Groceries,1450.0
+2024-12-05,Fashion,785.0
+2024-12-05,Home & Kitchen,404.0
+2024-12-06,Electronics,704.0
+2024-12-06,Groceries,1493.0
+2024-12-06,Fashion,695.0
+2024-12-06,Home & Kitchen,407.0
+2024-12-07,Electronics,923.0
+2024-12-07,Groceries,1837.0
+2024-12-07,Fashion,777.0
+2024-12-07,Home & Kitchen,610.0
+2024-12-08,Electronics,971.0
+2024-12-08,Groceries,1780.0
+2024-12-08,Fashion,875.0
+2024-12-08,Home & Kitchen,603.0
+2024-12-09,Electronics,852.0
+2024-12-09,Groceries,1472.0
+2024-12-09,Fashion,793.0
+2024-12-09,Home & Kitchen,577.0
+2024-12-10,Electronics,894.0
+2024-12-10,Groceries,1448.0
+2024-12-10,Fashion,635.0
+2024-12-10,Home & Kitchen,525.0
+2024-12-11,Electronics,767.0
+2024-12-11,Groceries,1477.0
+2024-12-11,Fashion,704.0
+2024-12-11,Home & Kitchen,568.0
+2024-12-12,Electronics,821.0
+2024-12-12,Groceries,1518.0
+2024-12-12,Fashion,789.0
+2024-12-12,Home & Kitchen,513.0
+2024-12-13,Electronics,709.0
+2024-12-13,Groceries,1548.0
+2024-12-13,Fashion,763.0
+2024-12-13,Home & Kitchen,539.0
+2024-12-14,Electronics,950.0
+2024-12-14,Groceries,1701.0
+2024-12-14,Fashion,857.0
+2024-12-14,Home & Kitchen,512.0
+2024-12-15,Electronics,1040.0
+2024-12-15,Groceries,1859.0
+2024-12-15,Fashion,834.0
+2024-12-15,Home & Kitchen,643.0
+2024-12-16,Electronics,731.0
+2024-12-16,Groceries,1431.0
+2024-12-16,Fashion,723.0
+2024-12-16,Home & Kitchen,410.0
+2024-12-17,Electronics,709.0
+2024-12-17,Groceries,1414.0
+2024-12-17,Fashion,616.0
+2024-12-17,Home & Kitchen,567.0
+2024-12-18,Electronics,845.0
+2024-12-18,Groceries,1582.0
+2024-12-18,Fashion,752.0
+2024-12-18,Home & Kitchen,458.0
+2024-12-19,Electronics,777.0
+2024-12-19,Groceries,1523.0
+2024-12-19,Fashion,713.0
+2024-12-19,Home & Kitchen,421.0
+2024-12-20,Electronics,857.0
+2024-12-20,Groceries,1571.0
+2024-12-20,Fashion,631.0
+2024-12-20,Home & Kitchen,578.0
+2024-12-21,Electronics,1033.0
+2024-12-21,Groceries,1812.0
+2024-12-21,Fashion,859.0
+2024-12-21,Home & Kitchen,648.0
+2024-12-22,Electronics,981.0
+2024-12-22,Groceries,1731.0
+2024-12-22,Fashion,858.0
+2024-12-22,Home & Kitchen,538.0
+2024-12-23,Electronics,711.0
+2024-12-23,Groceries,1574.0
+2024-12-23,Fashion,617.0
+2024-12-23,Home & Kitchen,548.0
+2024-12-24,Electronics,840.0
+2024-12-24,Groceries,1548.0
+2024-12-24,Fashion,725.0
+2024-12-24,Home & Kitchen,535.0
+2024-12-25,Electronics,745.0
+2024-12-25,Groceries,1503.0
+2024-12-25,Fashion,734.0
+2024-12-25,Home & Kitchen,550.0
+2024-12-26,Electronics,785.0
+2024-12-26,Groceries,1549.0
+2024-12-26,Fashion,688.0
+2024-12-26,Home & Kitchen,421.0
+2024-12-27,Electronics,791.0
+2024-12-27,Groceries,1428.0
+2024-12-27,Fashion,612.0
+2024-12-27,Home & Kitchen,401.0
+2024-12-28,Electronics,888.0
+2024-12-28,Groceries,1879.0
+2024-12-28,Fashion,766.0
+2024-12-28,Home & Kitchen,549.0
+2024-12-29,Electronics,954.0
+2024-12-29,Groceries,1850.0
+2024-12-29,Fashion,827.0
+2024-12-29,Home & Kitchen,543.0
+2024-12-30,Electronics,721.0
+2024-12-30,Groceries,1570.0
+2024-12-30,Fashion,764.0
+2024-12-30,Home & Kitchen,588.0
+2024-12-31,Electronics,796.0
+2024-12-31,Groceries,1583.0
+2024-12-31,Fashion,602.0
+2024-12-31,Home & Kitchen,590.0
