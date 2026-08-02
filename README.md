@@ -1,1 +1,1 @@
-# SyntecxHub-Data-Science-Project2
+# SyntecxHub-Data-Science-Task2
